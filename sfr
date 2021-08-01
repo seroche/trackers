@@ -14,3 +14,8 @@ epg.stb.sfr.fr
 reportlive.stb.sfr.fr
 
 # DO NOT BLACKLIST
+# containerz.stb.sfr.fr               Access SFR Replay
+# oboxofficeimages.tv.sfr.net         ?
+# rpc.stb.sfr.fr                      Start the SFR box
+# static-cdn.tv.sfr.net               Access static resources
+# ws-sekai-stb.tv.sfr.net             Show Netflix & Amazon Prime icons

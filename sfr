@@ -1,8 +1,17 @@
+# BETA
+ntp.tv.sfr.net
+cv.geo.pfd.sfr.net
+
 # TV
 report.tv.sfr.net
+reporting.tv.sfr.net
 ws-gaia.tv.sfr.net
 ws-heimdall.tv.sfr.net
 ws-sekai.tv.sfr.net
+
+# PFD
+adenabler-sfr.pfd.sfr.net
+ncdn-stb-data.pfd.sfr.net
 
 # STB
 dnscheck.stb.sfr.fr

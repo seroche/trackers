@@ -1,21 +1,36 @@
+##############################
 # tv.sfr.net
+##############################
 report.tv.sfr.net
 reporting.tv.sfr.net
 ws-gaia.tv.sfr.net
 ws-heimdall.tv.sfr.net
 ws-sekai.tv.sfr.net
 
+##############################
 # pfd.sfr.net
+##############################
 adenabler-sfr.pfd.sfr.net
 
+##############################
 # stb.sfr.fr
+##############################
 dnscheck.stb.sfr.fr
 epg.stb.sfr.fr
 reportlive.stb.sfr.fr
 
 # DO NOT BLACKLIST
-# containerz.stb.sfr.fr               Access SFR Replay
+
+##############################
+# tv.sfr.net
+##############################
+# ntp.tv.sfr.net                      Synchronize SFR box time
 # oboxofficeimages.tv.sfr.net         ?
-# rpc.stb.sfr.fr                      Start the SFR box
 # static-cdn.tv.sfr.net               Access static resources
 # ws-sekai-stb.tv.sfr.net             Show Netflix & Amazon Prime icons
+
+##############################
+# stb.sfr.fr
+##############################
+# containerz.stb.sfr.fr               Access SFR Replay
+# rpc.stb.sfr.fr                      Start the SFR box

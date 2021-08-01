@@ -1,5 +1,10 @@
+# TV
 report.tv.sfr.net
 ws-gaia.tv.sfr.net
-epg.stb.sfr.fr
-ws-sekai.tv.sfr.net
 ws-heimdall.tv.sfr.net
+ws-sekai.tv.sfr.net
+
+# STB
+dnscheck.stb.sfr.fr
+epg.stb.sfr.fr
+reportlive.stb.sfr.fr

@@ -28,4 +28,5 @@ reportlive.stb.sfr.fr
 # STB #########################
 # containerz.stb.sfr.fr               Access SFR Replay
 # rpc.stb.sfr.fr                      Start the SFR decoder
+# softversion.stb.sfr.fr              Update SFR decoder
 ##############################

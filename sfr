@@ -25,7 +25,7 @@ reportlive.stb.sfr.fr
 # tv.sfr.net
 ##############################
 # ntp.tv.sfr.net                      Synchronize SFR box time
-# oboxofficeimages.tv.sfr.net         ?
+# oboxofficeimages.tv.sfr.net         Show Netflix & Amazon Prime icons
 # static-cdn.tv.sfr.net               Access static resources
 # ws-sekai-stb.tv.sfr.net             Show Netflix & Amazon Prime icons
 

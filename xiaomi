@@ -1,6 +1,4 @@
-intl.xiaomi.com
-global.market.xiaomi.com
-chat.global.xiaomi.net
-msg.global.xiaomi.net
-micloud.xiaomi.net
-i.mi.com
+(^|\.)intl\.xiaomi\.(com|net)
+(^|\.)market\.xiaomi\.(com|net)
+(^|\.)global.xiaomi\.(com|net)
+(^|\.)micloud\.xiaomi\.(com|net)

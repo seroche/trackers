@@ -24,7 +24,7 @@ reportlive.stb.sfr.fr
 ##############################
 # tv.sfr.net
 ##############################
-# ntp.tv.sfr.net                      Synchronize SFR box time
+# ntp.tv.sfr.net                      Synchronize linux time
 # oboxofficeimages.tv.sfr.net         Show Netflix & Amazon Prime icons
 # static-cdn.tv.sfr.net               Access static resources
 # ws-sekai-stb.tv.sfr.net             Show Netflix & Amazon Prime icons
@@ -33,4 +33,4 @@ reportlive.stb.sfr.fr
 # stb.sfr.fr
 ##############################
 # containerz.stb.sfr.fr               Access SFR Replay
-# rpc.stb.sfr.fr                      Start the SFR box
+# rpc.stb.sfr.fr                      Start the SFR decoder

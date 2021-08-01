@@ -1,3 +1,4 @@
-stat(s)?\.(intl.)?(xiaomi|mi)\.
-miui\.(com|net)
-^ad.*(xiaomi|mi)\.
+intl.xiaomi.com
+chat.global.xiaomi.net
+msg.global.xiaomi.net
+micloud.xiaomi.net

@@ -1,27 +1,7 @@
 # TV ##########################
 report.tv.sfr.net
 reporting.tv.sfr.net
-##############################
-
 # PFD ########################
 adenabler-sfr.pfd.sfr.net
-##############################
-
 # STB ########################
-# dnscheck.stb.sfr.fr
-##############################
-
-# DO NOT BLACKLIST
-
-# TV ##########################
-# ntp.tv.sfr.net                      Synchronize linux time
-# oboxofficeimages.tv.sfr.net         Show Netflix & Amazon Prime icons
-# static-cdn.tv.sfr.net               Access static resources
-# ws-sekai-stb.tv.sfr.net             Show Netflix & Amazon Prime icons
-##############################
-
-# STB #########################
-# containerz.stb.sfr.fr               Access SFR Replay
-# rpc.stb.sfr.fr                      Start the SFR decoder
-# softversion.stb.sfr.fr              Update SFR decoder
-##############################
+dnscheck.stb.sfr.fr

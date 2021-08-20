@@ -8,6 +8,7 @@ analytics-xpress.jabra.com
 api.cortana.ai
 api.singlespot.com
 cdnconfig.aihelp.net
+collector-euc1.cylance.com
 combine.asnapieu.com
 content-autofill.googleapis.com
 crl.identrust.com
@@ -18,11 +19,13 @@ firebaseremoteconfig.googleapis.com
 m.stripe.com
 m.stripe.network
 media.batch.com
+mobile-data.onetrust.io
 moduleanalysis.aliexpress.com
 ncc.avast.com
 plausible.omgapi.org
 prebid.admaxmedia.io
 r.stripe.com
+remote-data.asnapieu.com
 s.openmediation.com
 s.w.org
 t.co

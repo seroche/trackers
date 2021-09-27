@@ -5,7 +5,6 @@ analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.cortana.ai
 api.eu-west-1.aiv-delivery.net
-api.samsungosp.com
 api.singlespot.com
 app.newsatme.com
 cdn.statically.io
@@ -13,6 +12,7 @@ cdnconfig.aihelp.net
 cloud.cpatrk.net
 collector-euc1.cylance.com
 combine.asnapieu.com
+contextual.sirdata.io
 coupons.6cloud.fr
 crl.identrust.com
 data-euc1.cylance.com
@@ -26,7 +26,6 @@ f-log-editor.grammarly.io
 f-log-editor-debug.grammarly.io
 ga.cpatrk.net
 heartbeat.iptvsfr.m6web.fr
-hk-odc.samsungapps.com
 log.draw.io
 logs-api.xe.com
 logs-qos.tf1.fr
@@ -45,6 +44,7 @@ rb.symcb.com
 remote-data.asnapieu.com
 s.openmediation.com
 sdk.adotmob.com
+semantic-matching.minutemediaservices.com
 speedtest.dailymotion.com
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
@@ -53,5 +53,3 @@ webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.ebayadservices.com
 www.fb-analytics.com
 www.tm.a.prd.aadg.trafficmanager.net
-semantic-matching.minutemediaservices.com
-contextual.sirdata.io

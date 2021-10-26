@@ -6,8 +6,10 @@ api.win4mall.com
 app.newsatme.com
 cement-euc1.cylance.com
 collector-euc1.cylance.com
+combine.asnapieu.com
 coupons.6cloud.fr
 data-euc1.cylance.com
+device-api.asnapieu.com
 dfty-optimeeze-leroymerlinfr.appspot.com
 f-log-editor.grammarly.com
 f-log-editor.grammarly.io
@@ -27,6 +29,7 @@ prod.rewardsplatform.microsoft.com
 push.cpatrk.net
 pxl-mailtracker.com
 rb.symcb.com
+remote-data.asnapieu.com
 s.openmediation.com
 safebrowsing.googleapis.com
 sdk.adotmob.com
@@ -40,6 +43,3 @@ webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.ebayadservices.com
 www.fb-analytics.com
 www.tm.a.prd.aadg.trafficmanager.net
-combine.asnapieu.com
-device-api.asnapieu.com
-remote-data.asnapieu.com

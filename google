@@ -1,6 +1,5 @@
 android-safebrowsing.google.com
 auditrecording-pa.googleapis.com
-clientservices.googleapis.com
 content-autofill.googleapis.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
@@ -24,6 +23,5 @@ suggestqueries.google.com
 tenor.googleapis.com
 tracedepot-pa.clients6.google.com
 tracedepot-pa.googleapis.com
-ulp1p-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com

@@ -35,6 +35,13 @@ tracking.lafourchette.com
 tracking-protection.cdn.mozilla.net
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.fb-analytics.com
+trusteerlogs-de.s3.amazonaws.com
+location.services.mozilla.com
+bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
+ubuyanalytics.ubuy.com
+update.avlyun.sec.miui.com
+loglogin.lastpass.com
+mobile-1412.api.privacy-center.org
 
 ##### Google
 android-safebrowsing.google.com
@@ -64,6 +71,8 @@ tracedepot-pa.clients6.google.com
 tracedepot-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
+quake-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com
 
 ##### Netflix
 nrdp.nccp.netflix.com

@@ -33,12 +33,12 @@ ncc.avast.com
 o119305.ingest.sentry.io
 o192956.ingest.sentry.io
 o207141.ingest.sentry.io
+o322825.ingest.sentry.io
 partnertrackshopify.dk
 ping.contactpigeon.com
 prebid.admaxmedia.io
 pxl-mailtracker.com
 remote-data.asnapieu.com
-safebrowsing.googleapis.com
 secure.analytics.voyages-sncf.com
 semantic-matching.minutemediaservices.com
 speedtest.dailymotion.com
@@ -78,6 +78,7 @@ myphonenumbers-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 regioninfo-pa.googleapis.com
 safebrowsing.google.com
+safebrowsing.googleapis.com
 suggestqueries.google.com
 suggestqueries-clients6.youtube.com
 tenor.googleapis.com

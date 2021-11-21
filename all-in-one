@@ -2,6 +2,7 @@
 analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.cortana.ai
+api.diagnostics.office.com
 api.win4mall.com
 app.newsatme.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
@@ -29,6 +30,7 @@ log.draw.io
 loglogin.lastpass.com
 logs-api.xe.com
 logs-qos.tf1.fr
+login.aliexpress.ru
 mobile-1412.api.privacy-center.org
 mobile-data.onetrust.io
 moduleanalysis.aliexpress.com
@@ -37,11 +39,15 @@ o119305.ingest.sentry.io
 o192956.ingest.sentry.io
 o207141.ingest.sentry.io
 o322825.ingest.sentry.io
+o95877.ingest.sentry.io
+ocsp.dcocsp.cn
 partnertrackshopify.dk
 ping.contactpigeon.com
 prebid.admaxmedia.io
 pxl-mailtracker.com
 remote-data.asnapieu.com
+samcm.ksmobile.com
+samcmsec.ksmobile.com
 scripts.opti-digital.com
 secure.analytics.voyages-sncf.com
 speedtest.dailymotion.com
@@ -53,6 +59,7 @@ tracking.molotov.tv
 tracking-protection.cdn.mozilla.net
 trusteerlogs-de.s3.amazonaws.com
 ubuyanalytics.ubuy.com
+yandex.ru
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.fb-analytics.com
 

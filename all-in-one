@@ -16,13 +16,16 @@ data-euc1.cylance.com
 device-api.asnapieu.com
 dmtracking2.alibaba.com
 ecs.office.com
+events-logs.doctolib.com
 f-log-editor.grammarly.com
 f-log-editor.grammarly.io
 f-log-editor-debug.grammarly.io
+feedback.aliexpress.com
 geo.avuxiapis.com
 geo.dailymotion.com
 geo.prod.do.dsp.mp.microsoft.com
 geover.prod.do.dsp.mp.microsoft.com
+go.urtrackinglink.com
 heartbeat.iptvsfr.m6web.fr
 location.services.mozilla.com
 lody7k1k-android.mobile-messenger.intercom.com
@@ -46,11 +49,13 @@ samcmsec.ksmobile.com
 scripts.opti-digital.com
 secure.analytics.voyages-sncf.com
 speedtest.dailymotion.com
+sslpxc.futurecdn.net.c.footprint.net
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracking.ba-ba-bam.com
 tracking.lafourchette.com
 tracking.molotov.tv
+tracking.infos.fr
 tracking-protection.cdn.mozilla.net
 trusteerlogs-de.s3.amazonaws.com
 ubuyanalytics.ubuy.com
@@ -59,14 +64,18 @@ webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.fb-analytics.com
 
 ##### Google
+accountsettingsmobile-pa.googleapis.com
 android-safebrowsing.google.com
 auditrecording-pa.googleapis.com
 clientservices.googleapis.com
 content-autofill.googleapis.com
+chromesyncpasswords-pa.googleapis.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
+cryptauthvault.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 digitalassetlinks.googleapis.com
+discover-pa.googleapis.com
 dns.google
 espresso-pa.clients6.google.com
 firebaseinappmessaging.googleapis.com
@@ -79,10 +88,13 @@ gmscompliance-pa.googleapis.com
 growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
 inputsuggestions.msdxcdn.microsoft.com
+kidsmanagement-pa.googleapis.com
 lamssettings-pa.googleapis.com
+mdh-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
+photosdata-pa.googleapis.com
 quake-pa.googleapis.com
 regioninfo-pa.googleapis.com
 safebrowsing.google.com
@@ -92,6 +104,7 @@ suggestqueries-clients6.youtube.com
 tenor.googleapis.com
 tracedepot-pa.clients6.google.com
 tracedepot-pa.googleapis.com
+ulp1p-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 
@@ -120,6 +133,7 @@ avatar.skype.com
 b.config.skype.com
 config.edge.skype.com
 edge.skype.com
+swc.cdn.skype.com
 
 ##### Xiaomi
 abroad.api.comm.intl.miui.com
@@ -135,7 +149,11 @@ authbe.sec.intl.miui.com
 connect.rom.miui.com
 cse.avlyun.sec.miui.com
 data.mistat.intl.xiaomi.com
+de.api.io.mi.com
+de-idm.api.io.mi.com
+de.idm.iot.mi.com
 find.api.micloud.xiaomi.net
+font.sec.miui.com
 flash.sec.intl.miui.com
 fr.app.chat.global.xiaomi.net
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com

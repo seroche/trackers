@@ -75,6 +75,25 @@ web-conforama-trackingapi-live.sparkow.net
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 www.fb-analytics.com
 yandex.ru
+ipm-provider.ff.avast.com
+geotapi-timersys.netdna-ssl.com
+geo.img.pmdstatic.net
+activity.windows.com
+app.slickstream.com
+ads.dugwood.com
+secureads.g.doubleclick.net
+freegeoip.live
+ip-info.ff.avast.com
+sentry.clubic.com
+assets.activity.windows.com
+api.geoapify.com
+classify-client.services.mozilla.com
+analytics.localstack.cloud
+analytics.production.aws.localstack.cloud
+www.googleadservice.com
+geolocation-recommendations.shopifycloud.com
+login.tmall.ru
+thumbs.ebaystatic.com.c.footprint.net
 
 ##### Google
 android-safebrowsing.google.com
@@ -129,6 +148,7 @@ voledevice-pa.googleapis.com
 ##### Netflix
 nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
+probe.prod.ftl.netflix.com
 
 ##### Samsung
 api.samsungosp.com
@@ -196,3 +216,7 @@ sdkconfig.ad.intl.xiaomi.com
 tracking.intl.miui.com
 update.avlyun.sec.miui.com
 us.find.api.micloud.xiaomi.net
+connect.rom.miui.com
+attach.bbs.miui.com
+cdn.awsde0-fusion.fds.api.mi-img.com
+hk-file.intl.miui.com

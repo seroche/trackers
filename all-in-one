@@ -97,6 +97,8 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 sentry.trip101.com
 server.analytics.leroymerlin.fr
+via.batch.com
+ws.batch.com
 
 ##### Google
 android-safebrowsing.google.com
@@ -176,6 +178,7 @@ config.edge.skype.com
 edge.skype.com
 swc.cdn.skype.com
 www.skypeassets.com
+neu.notifications.skype.com
 
 ##### Xiaomi
 azams0.fds.api.xiaomi.com
@@ -224,3 +227,4 @@ attach.bbs.miui.com
 cdn.awsde0-fusion.fds.api.mi-img.com
 hk-file.intl.miui.com
 orig.hk-file.intl.miui.com
+global.market.xiaomi.com

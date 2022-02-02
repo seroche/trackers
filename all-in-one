@@ -90,6 +90,13 @@ www.googleadservice.com
 geolocation-recommendations.shopifycloud.com
 login.tmall.ru
 thumbs.ebaystatic.com.c.footprint.net
+analytics-1424815829.eu-west-3.elb.amazonaws.com
+cc-analytics.services.atlassian.com
+cw-logs.takeaway.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+sentry.trip101.com
+server.analytics.leroymerlin.fr
 
 ##### Google
 android-safebrowsing.google.com
@@ -216,3 +223,4 @@ connect.rom.miui.com
 attach.bbs.miui.com
 cdn.awsde0-fusion.fds.api.mi-img.com
 hk-file.intl.miui.com
+orig.hk-file.intl.miui.com

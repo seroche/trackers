@@ -47,6 +47,7 @@ dmtracking2.alibaba.com
 dns.msftncsi.com
 ecs.office.com
 events-logs.doctolib.com
+events-tracker.deliveroo.net
 feedback.aliexpress.com
 femetrics.grammarly.io
 fins-de.trusteer.com
@@ -55,6 +56,8 @@ f-log-editor.grammarly.com
 f-log-editor.grammarly.io
 f-log-editor-debug.grammarly.io
 freegeoip.live
+ga.analytics-helper.com
+gdpr-mm-geolocation.herokuapp.com
 geo.avuxiapis.com
 geo.dailymotion.com
 geo.img.pmdstatic.net
@@ -66,7 +69,9 @@ heartbeat.iptvsfr.m6web.fr
 i.mi.com
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
+kimono-analytics.bienici.com
 location.services.mozilla.com
+location-inference-westus.cloudapp.net
 log.draw.io
 login.aliexpress.ru
 login.tmall.ru
@@ -86,6 +91,7 @@ path2.xtracloud.net
 path3.xtracloud.net
 pbs.optidigital.com
 ping.contactpigeon.com
+pings.analytics-helper.com
 prebid.admaxmedia.io
 pxl-mailtracker.com
 remote-data.asnapieu.com
@@ -121,21 +127,10 @@ www.googleadservice.com
 yandex.ru
 
 ##### Microsoft
-activity.windows.com
-assets.activity.windows.com
 assets.msn.com
-browser.events.data.microsoft.com
-config.teams.microsoft.com
-continuum.dds.microsoft.com
-geo.prod.do.dsp.mp.microsoft.com
-geover.prod.do.dsp.mp.microsoft.com
-inputsuggestions.msdxcdn.microsoft.com
 msgapi.teams.live.com
 presence.teams.live.com
 teams.live.com
-teams-ring.msedge.net
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
 
 ##### Google
 android-safebrowsing.google.com
@@ -149,7 +144,6 @@ tracedepot-pa.clients6.google.com
 nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
 probe.prod.ftl.netflix.com
-setupqos.stb.sfr.fr
 
 ##### Samsung
 api.samsungosp.com
@@ -161,20 +155,14 @@ hub.samsungapps.com
 sdk.pushmessage.samsung.com.cn
 
 ##### SFR
-report.tv.sfr.net
-reporting.tv.sfr.net
 adenabler-sfr.pfd.sfr.net
 dnscheck.stb.sfr.fr
+report.tv.sfr.net
+reporting.tv.sfr.net
+setupqos.stb.sfr.fr
 
 ##### Skype
-a.config.skype.com
-avatar.skype.com
-b.config.skype.com
-config.edge.skype.com
-edge.skype.com
-swc.cdn.skype.com
 www.skypeassets.com
-neu.notifications.skype.com
 
 ##### Xiaomi
 fr.app.chat.global.xiaomi.net

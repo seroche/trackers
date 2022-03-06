@@ -14,13 +14,13 @@ analytics-xpress.jabra.com
 api.amplitude.com
 api.cortana.ai
 api.diagnostics.office.com
+api.dixa.io
 api.geoapify.com
 api.ipify.org
 api.win4mall.com
 api4.accengage.com
 app.newsatme.com
 app.slickstream.com
-arc.msn.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
 cdn.cookielaw.org
@@ -66,7 +66,6 @@ geotapi-timersys.netdna-ssl.com
 geotargetingwp.com
 go.urtrackinglink.com
 heartbeat.iptvsfr.m6web.fr
-i.mi.com
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 kimono-analytics.bienici.com
@@ -104,9 +103,7 @@ sentry.clubic.com
 sentry.trip101.com
 server.analytics.leroymerlin.fr
 speedtest.dailymotion.com
-sslpxc.futurecdn.net.c.footprint.net
 status.geotrust.com
-thumbs.ebaystatic.com.c.footprint.net
 time.xtracloud.net
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com

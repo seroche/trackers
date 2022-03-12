@@ -72,9 +72,11 @@ go.urtrackinglink.com
 heartbeat.iptvsfr.m6web.fr
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
+js.intercomcdn.com
 kimono-analytics.bienici.com
 location.services.mozilla.com
 location-inference-westus.cloudapp.net
+lody7k1k-android.mobile-messenger.intercom.com
 log.draw.io
 login.aliexpress.ru
 login.tmall.ru
@@ -87,6 +89,7 @@ moduleanalysis.aliexpress.com
 mupdates.trusteer.com
 mupdates-de.trusteer.com
 ncc.avast.com
+nexus-websocket-a.intercom.io
 partnertrackshopify.dk
 parution-pub.prismashop.fr
 path1.xtracloud.net
@@ -125,6 +128,7 @@ ubuyanalytics.ubuy.com
 via.batch.com
 web-conforama-trackingapi-live.sparkow.net
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
+widget.intercom.io
 wl-analytics.tsp.li
 wrapper-api.sp-prod.net
 ws.batch.com

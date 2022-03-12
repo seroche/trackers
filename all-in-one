@@ -123,11 +123,20 @@ ws.batch.com
 www.fb-analytics.com
 www.googleadservice.com
 yandex.ru
+ccleaner.tools.avcdn.net
+emupdate.avcdn.net
+wrapper-api.sp-prod.net
+files.qualifio.com
+qualifio.capital.fr
+api-iam.intercom.io
+player.qualifio.com
 
 ##### Microsoft
 arc.msn.com
+api.msn.com
 assets.msn.com
 msgapi.teams.live.com
+ntp.msn.com
 presence.teams.live.com
 staticview.msn.com
 teams.live.com
@@ -135,12 +144,17 @@ windows.msn.com
 www.msn.com
 www.skypeassets.com
 
+# Mozilla
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+
 ##### Google
 android-safebrowsing.google.com
 dns.google
 peoplestackwebexperiments-pa.clients6.google.com
 safebrowsing.google.com
 signaler-pa.clients6.google.com
+pay.google.com
 suggestqueries.google.com
 suggestqueries-clients6.youtube.com
 tracedepot-pa.clients6.google.com

@@ -13,7 +13,6 @@ analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.amplitude.com
 api.cortana.ai
-api.diagnostics.office.com
 api.dixa.io
 api.geoapify.com
 api.ipify.org
@@ -46,8 +45,6 @@ device-api.asnapieu.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 dmtracking2.alibaba.com
-dns.msftncsi.com
-ecs.office.com
 emupdate.avcdn.net
 events-logs.doctolib.com
 events-tracker.deliveroo.net

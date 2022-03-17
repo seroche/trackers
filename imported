@@ -23,13 +23,11 @@ growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
 instantmessaging-pa-eu.googleapis.com
 instantmessaging-pa.googleapis.com
-maps.googleapis.com
 mdh-pa.googleapis.com
 meetings.googleapis.com
 myphonenumbers-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
 optimizationguide-pa.googleapis.com
-people-pa.googleapis.com
 peoplestack-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
 playatoms-pa.googleapis.com
@@ -44,7 +42,6 @@ ulp1p-pa.googleapis.com
 verifiedsms-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
-www.google.com
 www.googleapis.com
 
 # Microsoft (37) 
@@ -70,7 +67,6 @@ nav.smartscreen.microsoft.com
 nexusrules.officeapps.live.com
 officecdn.microsoft.com
 officeclient.microsoft.com
-outlook.office.com
 outlookmobile-office365-tas.msedge.net
 pscoretestdata.blob.core.windows.net
 roaming.officeapps.live.com
@@ -83,7 +79,6 @@ amazonwebservicesinc.tt.omtrdc.net
 assets.adobedtm.com
 files.qualifio.com
 gitcdn.xyz
-versioncheck.addons.mozilla.org
 www.timeout.com.hk
 
 # Xiaomi (22) 

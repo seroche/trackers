@@ -1,6 +1,6 @@
 ### New blocklist 17.03.2022:19.00
 
-# Google (47) 
+# Google
 android-context-data.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
@@ -44,7 +44,7 @@ voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
 
-# Microsoft (37) 
+# Microsoft
 a.config.skype.com
 apc.loki.delve.office.com
 augloop.office.com
@@ -74,14 +74,14 @@ settings-win.data.microsoft.com
 substrate.office.com
 v10.events.data.microsoft.com
 
-# Others (18) 
+# Others
 amazonwebservicesinc.tt.omtrdc.net
 assets.adobedtm.com
 files.qualifio.com
 gitcdn.xyz
 www.timeout.com.hk
 
-# Xiaomi (22) 
+# Xiaomi
 api.account.xiaomi.com
 api.hybrid.intl.xiaomi.com
 api.sec.intl.miui.com
@@ -91,6 +91,7 @@ authbe.sec.intl.miui.com
 cdn.awsde0-fusion.fds.api.mi-img.com
 de-idm.api.io.mi.com
 find.api.micloud.xiaomi.net
+fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 global.market.xiaomi.com
 h6.market.xiaomi.com

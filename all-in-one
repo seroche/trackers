@@ -106,6 +106,7 @@ sentry.clubic.com
 sentry.ionos.com
 sentry.trip101.com
 server.analytics.leroymerlin.fr
+session-replay.browser-intake-datadoghq.eu
 speedtest.dailymotion.com
 status.geotrust.com
 time.xtracloud.net
@@ -142,7 +143,9 @@ www.skypeassets.com
 
 # Mozilla
 firefox.settings.services.mozilla.com
+prod.balrog.prod.cloudops.mozgcp.net
 push.services.mozilla.com
+user-media-prod-cdn.itsre-sumo.mozilla.net
 
 ##### Google
 android-safebrowsing.google.com

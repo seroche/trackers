@@ -134,11 +134,8 @@ yandex.ru
 arc.msn.com
 api.msn.com
 assets.msn.com
-msgapi.teams.live.com
 ntp.msn.com
-presence.teams.live.com
 staticview.msn.com
-teams.live.com
 windows.msn.com
 www.msn.com
 www.skypeassets.com
@@ -180,7 +177,6 @@ reporting.tv.sfr.net
 setupqos.stb.sfr.fr
 
 ##### Xiaomi
-fr.app.chat.global.xiaomi.net
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com

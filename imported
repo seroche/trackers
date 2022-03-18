@@ -6,13 +6,14 @@ auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 clientservices.googleapis.com
-content-autofill.googleapis.com
 content.googleapis.com
+content-autofill.googleapis.com
 cryptauthvault.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com
 discover-pa.googleapis.com
+firebase.googleapis.com
 firebaseremoteconfig.googleapis.com
 firestore.googleapis.com
 fonts.googleapis.com
@@ -21,8 +22,8 @@ gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
 growth-pa.googleapis.com
 infinitedata-pa.googleapis.com
-instantmessaging-pa-eu.googleapis.com
 instantmessaging-pa.googleapis.com
+instantmessaging-pa-eu.googleapis.com
 mdh-pa.googleapis.com
 meetings.googleapis.com
 myphonenumbers-pa.googleapis.com
@@ -43,16 +44,19 @@ verifiedsms-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
-firebase.googleapis.com
 
 # Microsoft
 a.config.skype.com
+activity.windows.com
 apc.loki.delve.office.com
 augloop.office.com
 b.config.skype.com
+client.wns.windows.com
 config.edge.skype.com
+continuum.dds.microsoft.com
 cxcs.microsoft.net
 ecs.office.com
+edge.activity.windows.com
 edge.microsoft.com
 emdl.ws.microsoft.com
 fp.msedge.net
@@ -60,7 +64,9 @@ fs.microsoft.com
 go.microsoft.com
 gridinbound.blob.core.windows.net
 has.spserv.microsoft.com
+licensing.mp.microsoft.com
 loki.delve.office.com
+manage.devcenter.microsoft.com
 mobile.pipe.aria.microsoft.com
 mrodevicemgr.officeapps.live.com
 msedge.api.cdp.microsoft.com
@@ -68,20 +74,14 @@ nav.smartscreen.microsoft.com
 nexusrules.officeapps.live.com
 officecdn.microsoft.com
 officeclient.microsoft.com
+oneclient.sfx.ms
+outlook.office.com
 outlookmobile-office365-tas.msedge.net
 pscoretestdata.blob.core.windows.net
 roaming.officeapps.live.com
 settings-win.data.microsoft.com
 substrate.office.com
 v10.events.data.microsoft.com
-activity.windows.com
-client.wns.windows.com
-continuum.dds.microsoft.com
-edge.activity.windows.com
-licensing.mp.microsoft.com
-manage.devcenter.microsoft.com
-outlook.office.com
-oneclient.sfx.ms
 
 # Others
 amazonwebservicesinc.tt.omtrdc.net
@@ -101,6 +101,7 @@ cdn.awsde0-fusion.fds.api.mi-img.com
 de-idm.api.io.mi.com
 find.api.micloud.xiaomi.net
 fr.app.chat.global.xiaomi.net
+fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 global.market.xiaomi.com
 h6.market.xiaomi.com
@@ -114,4 +115,3 @@ t14.market.mi-img.com
 update.avlyun.sec.miui.com
 update.intl.miui.com
 us.find.api.micloud.xiaomi.net
-fr.app.chat.global.xiaomi.net

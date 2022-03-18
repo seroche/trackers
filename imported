@@ -43,6 +43,7 @@ verifiedsms-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
+firebase.googleapis.com
 
 # Microsoft
 a.config.skype.com
@@ -73,6 +74,14 @@ roaming.officeapps.live.com
 settings-win.data.microsoft.com
 substrate.office.com
 v10.events.data.microsoft.com
+activity.windows.com
+client.wns.windows.com
+continuum.dds.microsoft.com
+edge.activity.windows.com
+licensing.mp.microsoft.com
+manage.devcenter.microsoft.com
+outlook.office.com
+oneclient.sfx.ms
 
 # Others
 amazonwebservicesinc.tt.omtrdc.net
@@ -105,3 +114,4 @@ t14.market.mi-img.com
 update.avlyun.sec.miui.com
 update.intl.miui.com
 us.find.api.micloud.xiaomi.net
+fr.app.chat.global.xiaomi.net

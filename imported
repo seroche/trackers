@@ -1,3 +1,9 @@
+# Avast
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
+ncc.avast.com
+www.ccleaner.com
+
 # Google
 android-context-data.googleapis.com
 auditrecording-pa.googleapis.com
@@ -53,6 +59,7 @@ b.config.skype.com
 client.wns.windows.com
 config.edge.skype.com
 continuum.dds.microsoft.com
+cs.dds.microsoft.com
 cxcs.microsoft.net
 ecs.office.com
 edge.activity.windows.com
@@ -71,6 +78,7 @@ mrodevicemgr.officeapps.live.com
 msedge.api.cdp.microsoft.com
 nav.smartscreen.microsoft.com
 nexusrules.officeapps.live.com
+ocws.officeapps.live.com
 officecdn.microsoft.com
 officeclient.microsoft.com
 oneclient.sfx.ms
@@ -87,6 +95,7 @@ amazonwebservicesinc.tt.omtrdc.net
 assets.adobedtm.com
 files.qualifio.com
 gitcdn.xyz
+ws.batch.com
 www.timeout.com.hk
 
 # Xiaomi

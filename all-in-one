@@ -66,8 +66,6 @@ geotapi-timersys.netdna-ssl.com
 geotargetingwp.com
 go.urtrackinglink.com
 heartbeat.iptvsfr.m6web.fr
-ip-info.ff.avast.com
-ipm-provider.ff.avast.com
 js.intercomcdn.com
 kimono-analytics.bienici.com
 location.services.mozilla.com
@@ -84,13 +82,9 @@ mobile-data.onetrust.io
 moduleanalysis.aliexpress.com
 mupdates.trusteer.com
 mupdates-de.trusteer.com
-ncc.avast.com
 nexus-websocket-a.intercom.io
 partnertrackshopify.dk
 parution-pub.prismashop.fr
-path1.xtracloud.net
-path2.xtracloud.net
-path3.xtracloud.net
 pbs.optidigital.com
 ping.contactpigeon.com
 pings.analytics-helper.com
@@ -109,7 +103,6 @@ server.analytics.leroymerlin.fr
 session-replay.browser-intake-datadoghq.eu
 speedtest.dailymotion.com
 status.geotrust.com
-time.xtracloud.net
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracking.ba-ba-bam.com
@@ -118,15 +111,12 @@ tracking.lafourchette.com
 tracking.molotov.tv
 tracking-protection.cdn.mozilla.net
 trusteerlogs-de.s3.amazonaws.com
-tsock.ie1.twilio.com
 ubuyanalytics.ubuy.com
-via.batch.com
 web-conforama-trackingapi-live.sparkow.net
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 widget.intercom.io
 wl-analytics.tsp.li
 wrapper-api.sp-prod.net
-ws.batch.com
 www.fb-analytics.com
 www.googleadservice.com
 yandex.ru

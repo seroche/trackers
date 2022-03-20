@@ -32,6 +32,7 @@ auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 clientservices.googleapis.com
+contactsui-pa.googleapis.com
 content.googleapis.com
 content-autofill.googleapis.com
 cryptauthvault.googleapis.com
@@ -173,6 +174,7 @@ fr.app.chat.global.xiaomi.net
 fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 global.market.xiaomi.com
+t4.market.xiaomi.com
 h6.market.xiaomi.com
 resolver.msg.global.xiaomi.net
 sf0.market.xiaomi.com

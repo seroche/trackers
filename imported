@@ -5,6 +5,19 @@ ncc.avast.com
 www.ccleaner.com
 
 # Google
+android-safebrowsing.google.com
+dns.google
+peoplestackwebexperiments-pa.clients6.google.com
+safebrowsing.google.com
+signaler-pa.clients6.google.com
+pay.google.com
+play.google.com
+suggestqueries.google.com
+suggestqueries-clients6.youtube.com
+tracedepot-pa.clients6.google.com
+wallet.google.com
+
+# Google Apis
 android-context-data.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
@@ -18,6 +31,7 @@ dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com
 discover-pa.googleapis.com
 firebase.googleapis.com
+firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firestore.googleapis.com
 fonts.googleapis.com
@@ -45,6 +59,7 @@ telephonyspamprotect-pa.googleapis.com
 tenor.googleapis.com
 translate.googleapis.com
 ulp1p-pa.googleapis.com
+userlocation.googleapis.com
 verifiedsms-pa.googleapis.com
 voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
@@ -94,6 +109,7 @@ v10.events.data.microsoft.com
 amazonwebservicesinc.tt.omtrdc.net
 assets.adobedtm.com
 files.qualifio.com
+firebase-settings.crashlytics.com
 gitcdn.xyz
 ws.batch.com
 www.timeout.com.hk

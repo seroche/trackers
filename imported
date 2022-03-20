@@ -1,23 +1,34 @@
-# Avast
+### New blocklist 20.03.2022:13.34
+
+# adobedtm
+assets.adobedtm.com
+
+# avast
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 ncc.avast.com
+
+# batch
+ws.batch.com
+
+# ccleaner
 www.ccleaner.com
 
-# Google
+# crashlytics
+firebase-settings.crashlytics.com
+
+# google
 android-safebrowsing.google.com
-dns.google
 peoplestackwebexperiments-pa.clients6.google.com
 safebrowsing.google.com
 signaler-pa.clients6.google.com
 pay.google.com
 play.google.com
 suggestqueries.google.com
-suggestqueries-clients6.youtube.com
 tracedepot-pa.clients6.google.com
 wallet.google.com
 
-# Google Apis
+# googleapis
 android-context-data.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
@@ -65,85 +76,103 @@ voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
 
-# Microsoft
-a.config.skype.com
-activity.windows.com
-apc.loki.delve.office.com
-augloop.office.com
-b.config.skype.com
-client.wns.windows.com
-config.edge.skype.com
-continuum.dds.microsoft.com
-cs.dds.microsoft.com
-cxcs.microsoft.net
-ecs.office.com
-edge.activity.windows.com
-edge.microsoft.com
-emdl.ws.microsoft.com
-fp.msedge.net
-fs.microsoft.com
-go.microsoft.com
-gridinbound.blob.core.windows.net
-has.spserv.microsoft.com
-licensing.mp.microsoft.com
-loki.delve.office.com
-manage.devcenter.microsoft.com
-mobile.pipe.aria.microsoft.com
-mrodevicemgr.officeapps.live.com
-msedge.api.cdp.microsoft.com
-nav.smartscreen.microsoft.com
-nexusrules.officeapps.live.com
-ocws.officeapps.live.com
-officecdn.microsoft.com
-officeclient.microsoft.com
-oneclient.sfx.ms
-outlook.office.com
-outlookmobile-office365-tas.msedge.net
-pscoretestdata.blob.core.windows.net
-roaming.officeapps.live.com
-settings-win.data.microsoft.com
-substrate.office.com
-v10.events.data.microsoft.com
-
-# Others
-amazonwebservicesinc.tt.omtrdc.net
-assets.adobedtm.com
-files.qualifio.com
-firebase-settings.crashlytics.com
-gitcdn.xyz
-ws.batch.com
-www.timeout.com.hk
-
-# Xiaomi
-api.account.xiaomi.com
-api.hybrid.intl.xiaomi.com
-api.sec.intl.miui.com
-api.setting.intl.miui.com
-api.zhuti.intl.xiaomi.com
-authbe.sec.intl.miui.com
-cdn.awsde0-fusion.fds.api.mi-img.com
-de-idm.api.io.mi.com
-find.api.micloud.xiaomi.net
-fr.app.chat.global.xiaomi.net
-fr.app.chat.global.xiaomi.net
-fr.resolver.msg.global.xiaomi.net
-global.market.xiaomi.com
-h6.market.xiaomi.com
-hk-file.intl.miui.com
-i.mi.com
-idm.iot.mi.com
-newsfeed.api.intl.miui.com
-resolver.msg.global.xiaomi.net
-sf0.market.xiaomi.com
-t14.market.mi-img.com
-update.avlyun.sec.miui.com
-update.intl.miui.com
-us.find.api.micloud.xiaomi.net
-
-# Gstatic
+# gstatic
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
 fonts.gstatic.com
 www.gstatic.com
+
+# live
+mrodevicemgr.officeapps.live.com
+nexusrules.officeapps.live.com
+ocws.officeapps.live.com
+roaming.officeapps.live.com
+
+# mi
+de-idm.api.io.mi.com
+i.mi.com
+idm.iot.mi.com
+
+# mi-img
+cdn.awsde0-fusion.fds.api.mi-img.com
+t14.market.mi-img.com
+
+# microsoft
+continuum.dds.microsoft.com
+cs.dds.microsoft.com
+cxcs.microsoft.net
+edge.microsoft.com
+emdl.ws.microsoft.com
+fs.microsoft.com
+go.microsoft.com
+has.spserv.microsoft.com
+licensing.mp.microsoft.com
+manage.devcenter.microsoft.com
+mobile.pipe.aria.microsoft.com
+msedge.api.cdp.microsoft.com
+nav.smartscreen.microsoft.com
+officecdn.microsoft.com
+officeclient.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+
+# miui
+api.sec.intl.miui.com
+api.setting.intl.miui.com
+authbe.sec.intl.miui.com
+hk-file.intl.miui.com
+newsfeed.api.intl.miui.com
+update.avlyun.sec.miui.com
+update.intl.miui.com
+
+# msedge
+fp.msedge.net
+outlookmobile-office365-tas.msedge.net
+
+# office
+apc.loki.delve.office.com
+augloop.office.com
+ecs.office.com
+loki.delve.office.com
+outlook.office.com
+substrate.office.com
+
+# omtrdc
+amazonwebservicesinc.tt.omtrdc.net
+
+# qualifio
+files.qualifio.com
+
+# sfx
+oneclient.sfx.ms
+
+# skype
+a.config.skype.com
+b.config.skype.com
+config.edge.skype.com
+
+# windows
+activity.windows.com
+client.wns.windows.com
+edge.activity.windows.com
+gridinbound.blob.core.windows.net
+pscoretestdata.blob.core.windows.net
+
+# xiaomi
+api.account.xiaomi.com
+api.hybrid.intl.xiaomi.com
+api.zhuti.intl.xiaomi.com
+find.api.micloud.xiaomi.net
+fr.app.chat.global.xiaomi.net
+fr.app.chat.global.xiaomi.net
+fr.resolver.msg.global.xiaomi.net
+global.market.xiaomi.com
+h6.market.xiaomi.com
+resolver.msg.global.xiaomi.net
+sf0.market.xiaomi.com
+us.find.api.micloud.xiaomi.net
+
+# youtube
+suggestqueries-clients6.youtube.com

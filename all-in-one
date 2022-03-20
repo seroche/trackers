@@ -23,7 +23,6 @@ app.newsatme.com
 app.slickstream.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
-ccleaner.tools.avcdn.net
 cdn.cookielaw.org
 cdn.tagcommander.com
 cdn-settings.segment.com
@@ -46,7 +45,6 @@ device-api.asnapieu.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 dmtracking2.alibaba.com
-emupdate.avcdn.net
 events-logs.doctolib.com
 events-tracker.deliveroo.net
 feedback.aliexpress.com
@@ -151,9 +149,3 @@ dnscheck.stb.sfr.fr
 report.tv.sfr.net
 reporting.tv.sfr.net
 setupqos.stb.sfr.fr
-
-##### Xiaomi
-fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
-fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com

@@ -120,6 +120,7 @@ wrapper-api.sp-prod.net
 www.fb-analytics.com
 www.googleadservice.com
 yandex.ru
+suggestqueries-clients6.youtube.com
 
 ##### Microsoft
 arc.msn.com
@@ -136,17 +137,6 @@ firefox.settings.services.mozilla.com
 prod.balrog.prod.cloudops.mozgcp.net
 push.services.mozilla.com
 user-media-prod-cdn.itsre-sumo.mozilla.net
-
-##### Google
-android-safebrowsing.google.com
-dns.google
-peoplestackwebexperiments-pa.clients6.google.com
-safebrowsing.google.com
-signaler-pa.clients6.google.com
-pay.google.com
-suggestqueries.google.com
-suggestqueries-clients6.youtube.com
-tracedepot-pa.clients6.google.com
 
 ##### Netflix
 nrdp.nccp.netflix.com

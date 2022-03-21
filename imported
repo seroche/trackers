@@ -1,6 +1,3 @@
-# adobedtm
-assets.adobedtm.com
-
 # avast
 ccleaner.tools.avcdn.net
 emupdate.avcdn.net
@@ -8,12 +5,6 @@ ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 ncc.avast.com
 www.ccleaner.com
-
-# batch
-ws.batch.com
-
-# crashlytics
-firebase-settings.crashlytics.com
 
 # google
 aa.google.com
@@ -159,15 +150,6 @@ loki.delve.office.com
 outlook.office.com
 substrate.office.com
 
-# omtrdc
-amazonwebservicesinc.tt.omtrdc.net
-
-# qualifio
-files.qualifio.com
-
-# sfx
-oneclient.sfx.ms
-
 # skype
 a.config.skype.com
 api.teams.skype.com
@@ -203,6 +185,3 @@ fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
-
-# youtube
-suggestqueries-clients6.youtube.com

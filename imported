@@ -183,6 +183,7 @@ pscoretestdata.blob.core.windows.net
 
 # xiaomi
 api.account.xiaomi.com
+api.comm.miui.com
 api.hybrid.intl.xiaomi.com
 api.zhuti.intl.xiaomi.com
 find.api.micloud.xiaomi.net

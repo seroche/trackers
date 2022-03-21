@@ -1,4 +1,4 @@
-##### Ads & Tracker
+# Ads & Tracker
 4506.fr.mp-track.com
 4648.n.trusteer.com
 7eolh1cepr.kameleoon.eu
@@ -16,6 +16,7 @@ api.cortana.ai
 api.dixa.io
 api.geoapify.com
 api.ipify.org
+api.sprig.com
 api.win4mall.com
 api4.accengage.com
 api-iam.intercom.io
@@ -54,6 +55,7 @@ f-log-at.grammarly.io
 f-log-editor.grammarly.com
 f-log-editor.grammarly.io
 f-log-editor-debug.grammarly.io
+fmoviescomment.disqus.com
 freegeoip.live
 ga.analytics-helper.com
 gdpr-mm-geolocation.herokuapp.com
@@ -77,6 +79,7 @@ loglogin.lastpass.com
 logs-api.xe.com
 logs-qos.tf1.fr
 mobile-1412.api.privacy-center.org
+mobile-1550.api.privacy-center.org
 mobile-data.onetrust.io
 moduleanalysis.aliexpress.com
 mupdates.trusteer.com
@@ -102,6 +105,7 @@ server.analytics.leroymerlin.fr
 session-replay.browser-intake-datadoghq.eu
 speedtest.dailymotion.com
 status.geotrust.com
+suggestqueries-clients6.youtube.com
 time.apple.com
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
@@ -120,41 +124,3 @@ wrapper-api.sp-prod.net
 www.fb-analytics.com
 www.googleadservice.com
 yandex.ru
-suggestqueries-clients6.youtube.com
-api.sprig.com
-fmoviescomment.disqus.com
-mobile-1550.api.privacy-center.org
-assets.adobedtm.com
-firebase-settings.crashlytics.com
-ws.batch.com
-amazonwebservicesinc.tt.omtrdc.net
-files.qualifio.com
-oneclient.sfx.ms
-suggestqueries-clients6.youtube.com
-
-# Mozilla
-firefox.settings.services.mozilla.com
-prod.balrog.prod.cloudops.mozgcp.net
-push.services.mozilla.com
-user-media-prod-cdn.itsre-sumo.mozilla.net
-
-##### Netflix
-nrdp.nccp.netflix.com
-nrdp.prod.ftl.netflix.com
-probe.prod.ftl.netflix.com
-
-##### Samsung
-api.samsungosp.com
-dc.di.atlas.samsung.com
-dls.di.atlas.samsung.com
-ew1.api.cfpd.bdp.samsung.com
-hk-odc.samsungapps.com
-hub.samsungapps.com
-sdk.pushmessage.samsung.com.cn
-
-##### SFR
-adenabler-sfr.pfd.sfr.net
-dnscheck.stb.sfr.fr
-report.tv.sfr.net
-reporting.tv.sfr.net
-setupqos.stb.sfr.fr

@@ -16,7 +16,10 @@ ws.batch.com
 firebase-settings.crashlytics.com
 
 # google
+aa.google.com
 android-safebrowsing.google.com
+apis.google.com
+espresso-pa.clients6.google.com
 peoplestackwebexperiments-pa.clients6.google.com
 safebrowsing.google.com
 signaler-pa.clients6.google.com
@@ -51,9 +54,11 @@ gnpfesdk-pa.googleapis.com
 googleonebackup-pa.googleapis.com
 growth-pa.googleapis.com
 imasdk.googleapis.com
+igapromomanager-pa.googleapis.com
 infinitedata-pa.googleapis.com
 instantmessaging-pa.googleapis.com
 instantmessaging-pa-eu.googleapis.com
+jnn-pa.googleapis.com
 kidsmanagement-pa.googleapis.com
 mdh-pa.googleapis.com
 meetings.googleapis.com
@@ -131,8 +136,20 @@ update.avlyun.sec.miui.com
 update.intl.miui.com
 
 # msedge
+a-ring-fallback.msedge.net
+b-ring.msedge.net
+l-ring.msedge.net
+s-ring.msedge.net
 fp.msedge.net
 outlookmobile-office365-tas.msedge.net
+
+# msn
+api.msn.com
+arc.msn.com
+assets.msn.com
+staticview.msn.com
+windows.msn.com
+www.msn.com
 
 # office
 apc.loki.delve.office.com

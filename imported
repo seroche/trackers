@@ -142,6 +142,16 @@ staticview.msn.com
 windows.msn.com
 www.msn.com
 
+# mozilla
+firefox.settings.services.mozilla.com
+push.services.mozilla.com
+user-media-prod-cdn.itsre-sumo.mozilla.net
+
+# netflix
+nrdp.nccp.netflix.com
+nrdp.prod.ftl.netflix.com
+probe.prod.ftl.netflix.com
+
 # office
 apc.loki.delve.office.com
 augloop.office.com
@@ -149,6 +159,21 @@ ecs.office.com
 loki.delve.office.com
 outlook.office.com
 substrate.office.com
+
+# samsung
+api.samsungosp.com
+dc.di.atlas.samsung.com
+dls.di.atlas.samsung.com
+ew1.api.cfpd.bdp.samsung.com
+hk-odc.samsungapps.com
+hub.samsungapps.com
+
+# sfr
+adenabler-sfr.pfd.sfr.net
+dnscheck.stb.sfr.fr
+report.tv.sfr.net
+reporting.tv.sfr.net
+setupqos.stb.sfr.fr
 
 # skype
 a.config.skype.com

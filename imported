@@ -170,8 +170,10 @@ oneclient.sfx.ms
 
 # skype
 a.config.skype.com
+api.teams.skype.com
 b.config.skype.com
 config.edge.skype.com
+img.teams.skype.com
 
 # windows
 activity.windows.com

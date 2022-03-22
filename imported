@@ -131,10 +131,14 @@ update.intl.miui.com
 # msedge
 a-ring-fallback.msedge.net
 b-ring.msedge.net
+k-ring.msedge.net
 l-ring.msedge.net
+t-ring.msedge.net
 s-ring.msedge.net
 fp.msedge.net
+spov-ring-fallback.msedge.net
 outlookmobile-office365-tas.msedge.net
+teams-ring.msedge.net
 
 # msn
 api.msn.com
@@ -212,3 +216,8 @@ fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+
+# xtracloud
+path1.xtracloud.net
+path2.xtracloud.net
+path3.xtracloud.net

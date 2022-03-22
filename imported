@@ -40,6 +40,7 @@ firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firestore.googleapis.com
+firebasestorage.googleapis.com
 fonts.googleapis.com
 footprints-pa.googleapis.com
 gmscompliance-pa.googleapis.com

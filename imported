@@ -4,6 +4,7 @@ emupdate.avcdn.net
 ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 ncc.avast.com
+service.piriform.com
 www.ccleaner.com
 
 # google
@@ -78,15 +79,6 @@ voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
 
-# gstatic
-csi.gstatic.com
-encrypted-tbn0.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com
-fonts.gstatic.com
-www.gstatic.com
-
 # live
 mrodevicemgr.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -99,6 +91,7 @@ i.mi.com
 idm.iot.mi.com
 
 # mi-img
+cdn.cnbj1.fds.api.mi-img.com
 cdn.awsde0-fusion.fds.api.mi-img.com
 t14.market.mi-img.com
 
@@ -147,6 +140,7 @@ teams-ring.msedge.net
 api.msn.com
 arc.msn.com
 assets.msn.com
+ntp.msn.com
 staticview.msn.com
 windows.msn.com
 www.msn.com

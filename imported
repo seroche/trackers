@@ -13,8 +13,12 @@ android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
 apis.google.com
+chat-pa.clients6.google.com
+chat.google.com
 espresso-pa.clients6.google.com
+hangouts.google.com
 ogs.google.com
+ogs.google.fr
 peoplestackwebexperiments-pa.clients6.google.com
 safebrowsing.google.com
 signaler-pa.clients6.google.com
@@ -26,15 +30,18 @@ tracedepot-pa.clients6.google.com
 wallet.google.com
 
 # googleapis
+accountsettingsmobile-pa.googleapis.com
 android-context-data.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 clientservices.googleapis.com
+cryptauthenrollment.googleapis.com
 contactsui-pa.googleapis.com
 content.googleapis.com
 content-autofill.googleapis.com
 cryptauthvault.googleapis.com
+datamixer-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com

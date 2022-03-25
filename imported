@@ -8,7 +8,6 @@ service.piriform.com
 www.ccleaner.com
 
 # google
-aa.google.com
 android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
@@ -17,14 +16,9 @@ chat-pa.clients6.google.com
 chat.google.com
 espresso-pa.clients6.google.com
 hangouts.google.com
-ogs.google.com
-ogs.google.fr
-peoplestackwebexperiments-pa.clients6.google.com
 safebrowsing.google.com
-signaler-pa.clients6.google.com
 pay.google.com
 play.google.com
-rcs-acs-free-france.jibe.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
 wallet.google.com

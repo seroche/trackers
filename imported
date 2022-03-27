@@ -27,6 +27,7 @@ wallet.google.com
 # googleapis
 accountsettingsmobile-pa.googleapis.com
 android-context-data.googleapis.com
+androidpay-users-pa.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
@@ -48,6 +49,7 @@ firestore.googleapis.com
 firebasestorage.googleapis.com
 fonts.googleapis.com
 footprints-pa.googleapis.com
+geoar.googleapis.com
 gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
 googleonebackup-pa.googleapis.com

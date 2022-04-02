@@ -137,6 +137,9 @@ update.avlyun.sec.miui.com
 update.intl.miui.com
 
 # msedge
+a-ring.msedge.net
+l-ring.msedge.net
+t-ring.msedge.net
 fp.msedge.net
 spov-ring-fallback.msedge.net
 outlookmobile-office365-tas.msedge.net
@@ -173,10 +176,9 @@ hk-odc.samsungapps.com
 hub.samsungapps.com
 
 # sentry
-o930955.ingest.sentry.io
 o119305.ingest.sentry.io
+o930955.ingest.sentry.io
 o518737.ingest.sentry.io
-
 
 # sfr
 adenabler-sfr.pfd.sfr.net

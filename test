@@ -1,9 +1,12 @@
-# SFR
 #ws-asgard.tv.sfr.net
 ws-gaia.tv.sfr.net
-ws-heimdall-stb.tv.sfr.net
-epg.stb.sfr.fr
+ws-heimdall.tv.sfr.net
 ws-sekai.tv.sfr.net
+
+# STB
+epg.stb.sfr.fr
+ws-heimdall-stb.tv.sfr.net
+ws-sekai-stb.tv.sfr.net
 
 # Netflix
 assets.nflxext.com

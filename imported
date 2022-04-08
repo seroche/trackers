@@ -224,17 +224,18 @@ findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
 fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
 global.market.xiaomi.com
+im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
 t4.market.xiaomi.com
 h6.market.xiaomi.com
 resolver.msg.global.xiaomi.net
 sf0.market.xiaomi.com
 us.find.api.micloud.xiaomi.net
-im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
-fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+t7.a.market.xiaomi.com
 
 # xboxservices
 da.xboxservices.com

@@ -99,6 +99,12 @@ voilatile-pa.googleapis.com
 voledevice-pa.googleapis.com
 www.googleapis.com
 
+# googleusercontent
+ci3.googleusercontent.com
+ci4.googleusercontent.com
+ci5.googleusercontent.com
+ci6.googleusercontent.com
+
 # live
 mrodevicemgr.officeapps.live.com
 nexusrules.officeapps.live.com

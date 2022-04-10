@@ -129,6 +129,7 @@ t14.market.mi-img.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net
+dmd.metaservices.microsoft.com
 edge.microsoft.com
 emdl.ws.microsoft.com
 fs.microsoft.com
@@ -139,6 +140,8 @@ manage.devcenter.microsoft.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 msedge.api.cdp.microsoft.com
+msedge.b.tlu.dl.delivery.mp.microsoft.com
+msedge.f.dl.delivery.mp.microsoft.com
 mucp.api.account.microsoft.com
 nav.smartscreen.microsoft.com
 officecdn.microsoft.com

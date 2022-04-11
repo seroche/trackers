@@ -168,7 +168,12 @@ update.intl.miui.com
 
 # msedge
 a-ring.msedge.net
+a-ring-fallback.msedge.net
+b-ring.msedge.net
+c-ring.msedge.net
+k-ring.msedge.net
 l-ring.msedge.net
+s-ring.msedge.net
 t-ring.msedge.net
 fp.msedge.net
 spov-ring-fallback.msedge.net

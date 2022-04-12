@@ -196,6 +196,8 @@ probe.prod.ftl.netflix.com
 
 # office
 2e34aa77e7904f428546473121bcc88a.fp.measure.office.com
+66c44daca74741a9bf5c7ee6446a98ae.fp.measure.office.com
+acdc-direct.office.com
 apc.loki.delve.office.com
 augloop.office.com
 clients.config.office.net

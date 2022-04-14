@@ -190,6 +190,7 @@ windows.msn.com
 www.msn.com
 
 # netflix
+ichnaea.netflix.com
 nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
 probe.prod.ftl.netflix.com
@@ -200,11 +201,17 @@ probe.prod.ftl.netflix.com
 acdc-direct.office.com
 apc.loki.delve.office.com
 augloop.office.com
+augmentation.osi.office.net
 clients.config.office.net
 ecs.office.com
 loki.delve.office.com
 outlook.office.com
 substrate.office.com
+uci.cdn.office.net
+
+# office365
+ow2.res.office365.com
+r4.res.office365.com
 
 # samsung
 api.samsungosp.com

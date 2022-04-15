@@ -50,6 +50,7 @@ androidpay-users-pa.googleapis.com
 auditrecording-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
+clientauthconfig.googleapis.com
 clientservices.googleapis.com
 contactsui-pa.googleapis.com
 content.googleapis.com
@@ -254,6 +255,7 @@ idkidsmedia.blob.core.windows.net
 pscoretestdata.blob.core.windows.net
 
 # xiaomi
+account.xiaomi.com
 alsgp0.fds.api.xiaomi.com
 api.account.xiaomi.com
 api.comm.miui.com
@@ -276,8 +278,10 @@ t4.market.xiaomi.com
 h6.market.xiaomi.com
 resolver.msg.global.xiaomi.net
 sf0.market.xiaomi.com
+static-verify.sec.xiaomi.com
 us.find.api.micloud.xiaomi.net
 t7.a.market.xiaomi.com
+verify.sec.xiaomi.com
 
 # xboxservices
 da.xboxservices.com

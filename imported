@@ -118,6 +118,7 @@ waconatm.officeapps.live.com
 
 # mi
 de.api.io.mi.com
+de.idm.iot.mi.com
 de-idm.api.io.mi.com
 i.mi.com
 idm.iot.mi.com
@@ -156,9 +157,12 @@ v10.events.data.microsoft.com
 wcpstatic.microsoft.com
 
 # miui
+api.comm.miui.com
 api.sec.intl.miui.com
 api.setting.intl.miui.com
 authbe.sec.intl.miui.com
+file.update.miui.com
+flash.sec.intl.miui.com
 hk-file.intl.miui.com
 newsfeed.api.intl.miui.com
 update.avlyun.sec.miui.com
@@ -252,13 +256,10 @@ pscoretestdata.blob.core.windows.net
 account.xiaomi.com
 alsgp0.fds.api.xiaomi.com
 api.account.xiaomi.com
-api.comm.miui.com
 api.hybrid.intl.xiaomi.com
 api.zhuti.intl.xiaomi.com
-de.idm.iot.mi.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
-flash.sec.intl.miui.com
 fr.app.chat.global.xiaomi.net
 fr.resolver.msg.global.xiaomi.net
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com

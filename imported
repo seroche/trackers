@@ -31,14 +31,14 @@ android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
 apis.google.com
-chat-pa.clients6.google.com
 chat.google.com
+chat-pa.clients6.google.com
 espresso-pa.clients6.google.com
 hangouts.google.com
-safebrowsing.google.com
 pay.google.com
 play.google.com
 rcs-acs-free-france.jibe.google.com
+safebrowsing.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
 wallet.google.com
@@ -175,14 +175,14 @@ a-ring.msedge.net
 a-ring-fallback.msedge.net
 b-ring.msedge.net
 c-ring.msedge.net
+fp.msedge.net
 k-ring.msedge.net
 l-ring.msedge.net
-s-ring.msedge.net
-t-ring.msedge.net
-fp.msedge.net
-spov-ring-fallback.msedge.net
 outlookmobile-office365-tas.msedge.net
+spov-ring-fallback.msedge.net
+s-ring.msedge.net
 teams-ring.msedge.net
+t-ring.msedge.net
 
 # msn
 api.msn.com
@@ -262,7 +262,6 @@ api.comm.miui.com
 api.hybrid.intl.xiaomi.com
 api.zhuti.intl.xiaomi.com
 de.idm.iot.mi.com
-global.account.xiaomi.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
@@ -272,15 +271,16 @@ fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+global.account.xiaomi.com
 global.market.xiaomi.com
-im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
-t4.market.xiaomi.com
 h6.market.xiaomi.com
+im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
 resolver.msg.global.xiaomi.net
 sf0.market.xiaomi.com
 static-verify.sec.xiaomi.com
-us.find.api.micloud.xiaomi.net
+t4.market.xiaomi.com
 t7.a.market.xiaomi.com
+us.find.api.micloud.xiaomi.net
 verify.sec.xiaomi.com
 
 # xboxservices

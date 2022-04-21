@@ -25,6 +25,7 @@ android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
 apis.google.com
+appswaldo-pa.clients6.google.com
 chat.google.com
 chat-pa.clients6.google.com
 espresso-pa.clients6.google.com
@@ -201,12 +202,14 @@ probe.prod.ftl.netflix.com
 2e34aa77e7904f428546473121bcc88a.fp.measure.office.com
 66c44daca74741a9bf5c7ee6446a98ae.fp.measure.office.com
 acdc-direct.office.com
+addinsinstallation.store.office.com
 apc.loki.delve.office.com
 augloop.office.com
 augmentation.osi.office.net
 clients.config.office.net
 ecs.office.com
 loki.delve.office.com
+messaging.office.com
 outlook.office.com
 substrate.office.com
 uci.cdn.office.net

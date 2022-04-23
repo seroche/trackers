@@ -1,4 +1,3 @@
-dns.google
 4506.fr.mp-track.com
 4648.n.trusteer.com
 7eolh1cepr.kameleoon.eu
@@ -41,6 +40,7 @@ brave-today-cdn.brave.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
 cdn.cookielaw.org
+cdn.nexx360.io
 cdn.routeapp.io
 cdn.sipaof.fr
 cdn.tagcommander.com
@@ -69,6 +69,7 @@ device-api.asnapieu.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 dmtracking2.alibaba.com
+dns.google
 dynl.mktgcdn.com
 embed.ex.co
 eu1.clevertap-prod.com
@@ -77,6 +78,7 @@ events-logs.doctolib.com
 events-tracker.deliveroo.net
 exceptions.coinbase.com
 f2utl8kzz3vbpoothikmbdtbspcwmpjh5dkqmpc378d93a01cfd235ceam1.e.aa.online-metrix.net
+fast.nexx360.io
 feedback.aliexpress.com
 femetrics.grammarly.io
 files.qualifio.com
@@ -108,6 +110,7 @@ graphql.usercentrics.eu
 h.online-metrix.net
 heartbeat.iptvsfr.m6web.fr
 hk.pool.ntp.org
+ionos.fr.ssl.sc.omtrdc.net
 js.intercomcdn.com
 kimono-analytics.bienici.com
 lists.ccmbg.com
@@ -123,6 +126,7 @@ logs-qos.tf1.fr
 m.stripe.com
 m.stripe.network
 media.adeo.com
+media.api.idalgo.info
 mobile-1412.api.privacy-center.org
 mobile-1550.api.privacy-center.org
 mobile-data.onetrust.io
@@ -139,11 +143,14 @@ pings.analytics-helper.com
 pixel.dugwood.com
 player.qualifio.com
 prebid.admaxmedia.io
+presence-api.trust-pro.mpi-internal.com
 prod-us-west-2.csp-report.marketing.aws.dev
+profile-api-lbc.trust-pro.mpi-internal.com
 protection-widget.route.com
 px.ads.linkedin.com
 pxl-mailtracker.com
 qualifio.capital.fr
+qw1r.mjt.lu
 r.stripe.com
 raven.adeptmind.ai
 referrals.brave.com
@@ -169,6 +176,7 @@ softwareupdatechecker.live-everest-media.net
 solve-widget.forethought.ai
 sp-ao.shortpixel.ai
 speedtest.dailymotion.com
+sspapi-prd.samsungrs.com
 static.ccmbg.com
 static.ex.co
 status.geotrust.com
@@ -177,6 +185,7 @@ streams.yext.com
 suggestqueries-clients6.youtube.com
 t.snapcall.io
 tiles.search.brave.com
+time.api.idalgo.info
 time.apple.com
 tmgr.ccmbg.com
 tn.flashb.id
@@ -190,6 +199,8 @@ tracking-protection.cdn.mozilla.net
 trusteerlogs-de.s3.amazonaws.com
 tsock.ie1.twilio.com
 ubuyanalytics.ubuy.com
+ui.digibot-prod.probayes.net
+ui-api.digibot-prod.probayes.net
 uspolo-search.enterprise.adeptmind.ai
 vas.samsungapps.com
 web-conforama-trackingapi-live.sparkow.net
@@ -207,14 +218,3 @@ www2.bing.com
 wwzfrz0s-android.mobile-messenger.intercom.com
 yandex.ru
 yopo.cs.vpgrp.net
-fast.nexx360.io
-cdn.nexx360.io
-ui.digibot-prod.probayes.net
-ui-api.digibot-prod.probayes.net
-media.api.idalgo.info
-time.api.idalgo.info
-ionos.fr.ssl.sc.omtrdc.net
-profile-api-lbc.trust-pro.mpi-internal.com
-presence-api.trust-pro.mpi-internal.com
-qw1r.mjt.lu
-sspapi-prd.samsungrs.com

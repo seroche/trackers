@@ -260,12 +260,6 @@ verify.sec.xiaomi.com
 
 #### Others
 
-# adobe
-acroipm2.adobe.com
-armmf.adobe.com
-geo2.adobe.com
-p13n.adobe.io
-
 # avast
 ccleaner.tools.avcdn.net
 download.ccleaner.com
@@ -277,10 +271,6 @@ ncc.avast.com
 service.piriform.com
 verify.ccleaner.com
 www.ccleaner.com
-
-# footprintdns
-1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
-71a95004751585d1755230fea925bb6b.clo.footprintdns.com
 
 # netflix
 ichnaea.netflix.com

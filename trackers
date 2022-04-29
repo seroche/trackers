@@ -1,32 +1,20 @@
 # New
-accdn.lpsnmedia.net
-lpcdn.lpsnmedia.net
-r.communication.excusemyweb.com
-acroipm2.adobe.com
-armmf.adobe.com
-geo2.adobe.com
-p13n.adobe.io
-1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
-71a95004751585d1755230fea925bb6b.clo.footprintdns.com
-assets-jpcust.jwpsrv.com
-rs.clic2buy.com
-boardlogos.adcourier.com
-europe-west1-header-bidding-163816.cloudfunctions.net
-quantcast.mgr.consensu.org
-api.datamuse.com
-analytics.getwemap.com
-nexus.ensighten.com
 
 # Current
+1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
 4506.fr.mp-track.com
 4648.n.trusteer.com
+71a95004751585d1755230fea925bb6b.clo.footprintdns.com
 7eolh1cepr.kameleoon.eu
+accdn.lpsnmedia.net
+acroipm2.adobe.com
 ads.avads.net
 ads.dugwood.com
 aggregator.service.usercentrics.eu
 akm-static.ccmbg.com
 amazonwebservicesinc.tt.omtrdc.net
 analytics.clubic.com
+analytics.getwemap.com
 analytics.localstack.cloud
 analytics.production.aws.localstack.cloud
 analytics.proxad.net
@@ -36,6 +24,7 @@ analytics-xpress.jabra.com
 api.amplitude.com
 api.bazaarvoice.com
 api.cortana.ai
+api.datamuse.com
 api.dixa.io
 api.dmcdn.net
 api.geoapify.com
@@ -53,9 +42,12 @@ app.newsatme.com
 app.slickstream.com
 app.usercentrics.eu
 arcus-uswest.amazon.com
+armmf.adobe.com
 assets.adobedtm.com
 assets.qualifio.com
+assets-jpcust.jwpsrv.com
 astatic.ccmbg.com
+boardlogos.adcourier.com
 brave-today-cdn.brave.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
@@ -93,6 +85,7 @@ dns.google
 dynl.mktgcdn.com
 embed.ex.co
 eu1.clevertap-prod.com
+europe-west1-header-bidding-163816.cloudfunctions.net
 eventgw.twilio.com
 events-logs.doctolib.com
 events-tracker.deliveroo.net
@@ -120,6 +113,7 @@ gdpr-mm-geolocation.herokuapp.com
 geo.avuxiapis.com
 geo.dailymotion.com
 geo.img.pmdstatic.net
+geo2.adobe.com
 geolocation-recommendations.shopifycloud.com
 geotapi-timersys.netdna-ssl.com
 geotargetingwp.com
@@ -143,6 +137,7 @@ login.tmall.ru
 loglogin.lastpass.com
 logs-api.xe.com
 logs-qos.tf1.fr
+lpcdn.lpsnmedia.net
 m.stripe.com
 m.stripe.network
 media.adeo.com
@@ -154,8 +149,10 @@ moduleanalysis.aliexpress.com
 msh.amazon.co.uk
 mupdates.trusteer.com
 mupdates-de.trusteer.com
+nexus.ensighten.com
 nexus-websocket-a.intercom.io
 oneclient.sfx.ms
+p13n.adobe.io
 partnertrackshopify.dk
 pbs.optidigital.com
 ping.contactpigeon.com
@@ -170,11 +167,14 @@ protection-widget.route.com
 px.ads.linkedin.com
 pxl-mailtracker.com
 qualifio.capital.fr
+quantcast.mgr.consensu.org
 qw1r.mjt.lu
+r.communication.excusemyweb.com
 r.stripe.com
 raven.adeptmind.ai
 referrals.brave.com
 remote-data.asnapieu.com
+rs.clic2buy.com
 rts-static-prod.freshworksapi.com
 samcm.ksmobile.com
 samcmsec.ksmobile.com

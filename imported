@@ -1,24 +1,10 @@
-# adobe
-acroipm2.adobe.com
-armmf.adobe.com
-geo2.adobe.com
-p13n.adobe.io
+#### google
 
-# avast
-ccleaner.tools.avcdn.net
-download.ccleaner.com
-driver-updater.ff.avast.com
-emupdate.avcdn.net
-ip-info.ff.avast.com
-ipm-provider.ff.avast.com
-ncc.avast.com
-service.piriform.com
-verify.ccleaner.com
-www.ccleaner.com
-
-# footprintdns
-1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
-71a95004751585d1755230fea925bb6b.clo.footprintdns.com
+#ampproject
+3p.ampproject.net
+d-1082372240564763606.ampproject.net
+d-37231148272824527262.ampproject.net
+d-38348884622645169982.ampproject.net
 
 # google
 android.apis.google.com
@@ -110,26 +96,17 @@ ci4.googleusercontent.com
 ci5.googleusercontent.com
 ci6.googleusercontent.com
 
+########
+
+#### microsoft
+
 # live
+inference.location.live.net
 mrodevicemgr.officeapps.live.com
 nexusrules.officeapps.live.com
 ocws.officeapps.live.com
 roaming.officeapps.live.com
 waconatm.officeapps.live.com
-
-# mi
-de.api.io.mi.com
-de.idm.iot.mi.com
-de-idm.api.io.mi.com
-i.mi.com
-idm.iot.mi.com
-
-# mi-img
-cdn.cnbj1.fds.api.mi-img.com
-cdn.awsde0-fusion.fds.api.mi-img.com
-cdn.web-global.fds.api.mi-img.com
-ssl-cdn.static.browser.mi-img.com
-t14.market.mi-img.com
 
 # microsoft
 continuum.dds.microsoft.com
@@ -157,18 +134,6 @@ settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 wcpstatic.microsoft.com
 
-# miui
-api.comm.miui.com
-api.sec.intl.miui.com
-api.setting.intl.miui.com
-authbe.sec.intl.miui.com
-file.update.miui.com
-flash.sec.intl.miui.com
-hk-file.intl.miui.com
-newsfeed.api.intl.miui.com
-update.avlyun.sec.miui.com
-update.intl.miui.com
-
 # msedge
 a-ring.msedge.net
 a-ring-fallback.msedge.net
@@ -192,12 +157,6 @@ staticview.msn.com
 windows.msn.com
 www.msn.com
 
-# netflix
-ichnaea.netflix.com
-nrdp.nccp.netflix.com
-nrdp.prod.ftl.netflix.com
-probe.prod.ftl.netflix.com
-
 # office
 2e34aa77e7904f428546473121bcc88a.fp.measure.office.com
 66c44daca74741a9bf5c7ee6446a98ae.fp.measure.office.com
@@ -217,6 +176,117 @@ uci.cdn.office.net
 # office365
 ow2.res.office365.com
 r4.res.office365.com
+
+# skype
+a.config.skype.com
+api.teams.skype.com
+b.config.skype.com
+config.edge.skype.com
+img.teams.skype.com
+
+# windows
+activity.windows.com
+client.wns.windows.com
+edge.activity.windows.com
+gridinbound.blob.core.windows.net
+idkidsmedia.blob.core.windows.net
+pscoretestdata.blob.core.windows.net
+
+# xtracloud
+path1.xtracloud.net
+path2.xtracloud.net
+path3.xtracloud.net
+time.xtracloud.net
+
+########
+
+#### xiaomi
+
+# amazonaws
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
+
+# mi
+de.api.io.mi.com
+de.idm.iot.mi.com
+de-idm.api.io.mi.com
+i.mi.com
+idm.iot.mi.com
+
+# mi-img
+cdn.cnbj1.fds.api.mi-img.com
+cdn.awsde0-fusion.fds.api.mi-img.com
+cdn.web-global.fds.api.mi-img.com
+ssl-cdn.static.browser.mi-img.com
+t14.market.mi-img.com
+
+# miui
+api.comm.miui.com
+api.sec.intl.miui.com
+api.setting.intl.miui.com
+authbe.sec.intl.miui.com
+file.update.miui.com
+flash.sec.intl.miui.com
+hk-file.intl.miui.com
+newsfeed.api.intl.miui.com
+update.avlyun.sec.miui.com
+update.intl.miui.com
+
+# xiaomi
+account.xiaomi.com
+alsgp0.fds.api.xiaomi.com
+api.account.xiaomi.com
+api.hybrid.intl.xiaomi.com
+api.zhuti.intl.xiaomi.com
+find.api.micloud.xiaomi.net
+findapi.micloud.xiaomi.net
+fr.app.chat.global.xiaomi.net
+fr.resolver.msg.global.xiaomi.net
+global.account.xiaomi.com
+global.market.xiaomi.com
+h6.market.xiaomi.com
+resolver.msg.global.xiaomi.net
+sf0.market.xiaomi.com
+static-verify.sec.xiaomi.com
+t4.market.xiaomi.com
+t7.a.market.xiaomi.com
+us.find.api.micloud.xiaomi.net
+verify.sec.xiaomi.com
+
+########
+
+#### Others
+
+# adobe
+acroipm2.adobe.com
+armmf.adobe.com
+geo2.adobe.com
+p13n.adobe.io
+
+# avast
+ccleaner.tools.avcdn.net
+download.ccleaner.com
+driver-updater.ff.avast.com
+emupdate.avcdn.net
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
+ncc.avast.com
+service.piriform.com
+verify.ccleaner.com
+www.ccleaner.com
+
+# footprintdns
+1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
+71a95004751585d1755230fea925bb6b.clo.footprintdns.com
+
+# netflix
+ichnaea.netflix.com
+nrdp.nccp.netflix.com
+nrdp.prod.ftl.netflix.com
+probe.prod.ftl.netflix.com
 
 # samsung
 api.samsungosp.com
@@ -240,52 +310,4 @@ report.tv.sfr.net
 reporting.tv.sfr.net
 setupqos.stb.sfr.fr
 
-# skype
-a.config.skype.com
-api.teams.skype.com
-b.config.skype.com
-config.edge.skype.com
-img.teams.skype.com
-
-# windows
-activity.windows.com
-client.wns.windows.com
-edge.activity.windows.com
-gridinbound.blob.core.windows.net
-idkidsmedia.blob.core.windows.net
-pscoretestdata.blob.core.windows.net
-
-# xiaomi
-account.xiaomi.com
-alsgp0.fds.api.xiaomi.com
-api.account.xiaomi.com
-api.hybrid.intl.xiaomi.com
-api.zhuti.intl.xiaomi.com
-find.api.micloud.xiaomi.net
-findapi.micloud.xiaomi.net
-fr.app.chat.global.xiaomi.net
-fr.resolver.msg.global.xiaomi.net
-fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
-fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
-global.account.xiaomi.com
-global.market.xiaomi.com
-h6.market.xiaomi.com
-im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
-resolver.msg.global.xiaomi.net
-sf0.market.xiaomi.com
-static-verify.sec.xiaomi.com
-t4.market.xiaomi.com
-t7.a.market.xiaomi.com
-us.find.api.micloud.xiaomi.net
-verify.sec.xiaomi.com
-
-# xboxservices
-da.xboxservices.com
-
-# xtracloud
-path1.xtracloud.net
-path2.xtracloud.net
-path3.xtracloud.net
-time.xtracloud.net
+########

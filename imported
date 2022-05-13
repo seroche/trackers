@@ -14,6 +14,7 @@ d-38348884622645169982.ampproject.net
 android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
+appsitemsuggest-pa.clients6.google.com
 apis.google.com
 appswaldo-pa.clients6.google.com
 chat.google.com
@@ -125,6 +126,8 @@ edge.microsoft.com
 emdl.ws.microsoft.com
 fs.microsoft.com
 go.microsoft.com
+graph.microsoft.com
+inputsuggestions.msdxcdn.microsoft.com
 has.spserv.microsoft.com
 licensing.mp.microsoft.com
 manage.devcenter.microsoft.com
@@ -138,6 +141,7 @@ nav.smartscreen.microsoft.com
 officecdn.microsoft.com
 officeclient.microsoft.com
 oneocsp.microsoft.com
+settings.data.microsoft.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 wcpstatic.microsoft.com

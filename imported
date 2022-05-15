@@ -53,6 +53,7 @@ deviceintegritytokens-pa.googleapis.com
 dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com
 discover-pa.googleapis.com
+federatedml-pa.googleapis.com
 firebase.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
@@ -120,6 +121,7 @@ roaming.officeapps.live.com
 waconatm.officeapps.live.com
 
 # microsoft
+api.edgeoffer.microsoft.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net

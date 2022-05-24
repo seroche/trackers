@@ -323,4 +323,9 @@ report.tv.sfr.net
 reporting.tv.sfr.net
 setupqos.stb.sfr.fr
 
+# twilio
+flex-api.twilio.com
+iam.twilio.com
+tsock.us1.twilio.com
+
 ########

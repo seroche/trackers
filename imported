@@ -1,6 +1,6 @@
 #### google
 
-#ampproject
+# ampproject
 3p.ampproject.net
 
 # google
@@ -148,41 +148,9 @@ s-ring-fallback.msedge.net
 teams-ring.msedge.net
 t-ring.msedge.net
 
-# msn
-api.msn.com
-arc.msn.com
-assets.msn.com
-ntp.msn.com
-staticview.msn.com
-windows.msn.com
-www.msn.com
-
-# office
-2e34aa77e7904f428546473121bcc88a.fp.measure.office.com
-66c44daca74741a9bf5c7ee6446a98ae.fp.measure.office.com
-acdc-direct.office.com
-addinsinstallation.store.office.com
-apc.loki.delve.office.com
-augloop.office.com
-augmentation.osi.office.net
-clients.config.office.net
-ecs.office.com
-loki.delve.office.com
-messaging.office.com
-outlook.office.com
-substrate.office.com
-uci.cdn.office.net
-
 # office365
 ow2.res.office365.com
 r4.res.office365.com
-
-# skype
-a.config.skype.com
-api.teams.skype.com
-b.config.skype.com
-config.edge.skype.com
-img.teams.skype.com
 
 # windows
 activity.windows.com
@@ -191,12 +159,6 @@ edge.activity.windows.com
 gridinbound.blob.core.windows.net
 idkidsmedia.blob.core.windows.net
 pscoretestdata.blob.core.windows.net
-
-# xtracloud
-path1.xtracloud.net
-path2.xtracloud.net
-path3.xtracloud.net
-time.xtracloud.net
 
 ########
 
@@ -216,14 +178,6 @@ ichnaea.netflix.com
 nrdp.nccp.netflix.com
 nrdp.prod.ftl.netflix.com
 probe.prod.ftl.netflix.com
-
-# samsung
-api.samsungosp.com
-dc.di.atlas.samsung.com
-dls.di.atlas.samsung.com
-ew1.api.cfpd.bdp.samsung.com
-hk-odc.samsungapps.com
-hub.samsungapps.com
 
 # sfr
 adenabler-sfr.pfd.sfr.net

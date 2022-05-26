@@ -242,6 +242,7 @@ t14.market.mi-img.com
 
 # miui
 api.comm.miui.com
+api.gallery.intl.miui.com
 api.sec.intl.miui.com
 api.setting.intl.miui.com
 authbe.sec.intl.miui.com
@@ -249,6 +250,7 @@ file.update.miui.com
 flash.sec.intl.miui.com
 hk-file.intl.miui.com
 newsfeed.api.intl.miui.com
+orig.hk-file.intl.miui.com
 update.avlyun.sec.miui.com
 update.intl.miui.com
 

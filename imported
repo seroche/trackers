@@ -1,8 +1,5 @@
 #### google
 
-# ampproject
-3p.ampproject.net
-
 # google
 android.apis.google.com
 android.clients.google.com
@@ -151,6 +148,9 @@ t-ring.msedge.net
 # office365
 ow2.res.office365.com
 r4.res.office365.com
+
+# s-microsoft
+c.s-microsoft.com
 
 # windows
 activity.windows.com

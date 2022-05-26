@@ -2,23 +2,6 @@
 
 #ampproject
 3p.ampproject.net
-d-10766075693026914266.ampproject.net
-d-1082372240564763606.ampproject.net
-d-14150121432242007502.ampproject.net
-d-1634188155820376820.ampproject.net
-d-1673470663313671189.ampproject.net
-d-21008265821749931178.ampproject.net
-d-22414134672714453442.ampproject.net
-d-2514569649574960587.ampproject.net
-d-28646012621454120466.ampproject.net
-d-36699952544226364342.ampproject.net
-d-37231148272824527262.ampproject.net
-d-38348884622645169982.ampproject.net
-d-39270531502199352731.ampproject.net
-d-4089876033257547513.ampproject.net
-d-4639779152647633249.ampproject.net
-d-551158319786950366.ampproject.net
-d-6199247541549864386.ampproject.net
 
 # google
 android.apis.google.com
@@ -226,70 +209,7 @@ fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
 fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
 im-fr-msg-fe-443-2072318483.eu-central-1.elb.amazonaws.com
 
-# mi
-de.api.io.mi.com
-de.idm.iot.mi.com
-de-idm.api.io.mi.com
-i.mi.com
-idm.iot.mi.com
-
-# mi-img
-cdn.cnbj1.fds.api.mi-img.com
-cdn.awsde0-fusion.fds.api.mi-img.com
-cdn.web-global.fds.api.mi-img.com
-ssl-cdn.static.browser.mi-img.com
-t14.market.mi-img.com
-
-# miui
-api.comm.miui.com
-api.gallery.intl.miui.com
-api.sec.intl.miui.com
-api.setting.intl.miui.com
-authbe.sec.intl.miui.com
-file.update.miui.com
-flash.sec.intl.miui.com
-hk-file.intl.miui.com
-newsfeed.api.intl.miui.com
-orig.hk-file.intl.miui.com
-update.avlyun.sec.miui.com
-update.intl.miui.com
-
-# xiaomi
-account.xiaomi.com
-alsgp0.fds.api.xiaomi.com
-api.account.xiaomi.com
-api.hybrid.intl.xiaomi.com
-api.zhuti.intl.xiaomi.com
-find.api.micloud.xiaomi.net
-findapi.micloud.xiaomi.net
-fr.app.chat.global.xiaomi.net
-fr.resolver.msg.global.xiaomi.net
-global.account.xiaomi.com
-global.market.xiaomi.com
-h6.market.xiaomi.com
-resolver.msg.global.xiaomi.net
-sf0.market.xiaomi.com
-static-verify.sec.xiaomi.com
-t4.market.xiaomi.com
-t7.a.market.xiaomi.com
-us.find.api.micloud.xiaomi.net
-verify.sec.xiaomi.com
-
-########
-
 #### Others
-
-# avast
-ccleaner.tools.avcdn.net
-download.ccleaner.com
-driver-updater.ff.avast.com
-emupdate.avcdn.net
-ip-info.ff.avast.com
-ipm-provider.ff.avast.com
-ncc.avast.com
-service.piriform.com
-verify.ccleaner.com
-www.ccleaner.com
 
 # netflix
 ichnaea.netflix.com
@@ -304,14 +224,6 @@ dls.di.atlas.samsung.com
 ew1.api.cfpd.bdp.samsung.com
 hk-odc.samsungapps.com
 hub.samsungapps.com
-
-# sentry
-o119305.ingest.sentry.io
-o322825.ingest.sentry.io
-o38419.ingest.sentry.io
-o518737.ingest.sentry.io
-o74967.ingest.sentry.io
-o930955.ingest.sentry.io
 
 # sfr
 adenabler-sfr.pfd.sfr.net

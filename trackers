@@ -9,13 +9,9 @@ cdn.onesignal.com
 
 #
 
-1c764e25146f148e04683cc2ed6c07d3.clo.footprintdns.com
-259db401a66de9b2eec848a2f4f1f239.clo.footprintdns.com
 3p.ampproject.net
 4506.fr.mp-track.com
 4648.n.trusteer.com
-593fd24a029c597ccfd6fb52611e58ba.clo.footprintdns.com
-71a95004751585d1755230fea925bb6b.clo.footprintdns.com
 7eolh1cepr.kameleoon.eu
 a.espncdn.com
 accdn.lpsnmedia.net
@@ -25,7 +21,6 @@ ads.dugwood.com
 advertisement.bienici.com
 aggregator.service.usercentrics.eu
 akm-static.ccmbg.com
-amazonwebservicesinc.tt.omtrdc.net
 analytics.clubic.com
 analytics.getwemap.com
 analytics.localstack.cloud
@@ -36,7 +31,6 @@ analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.amplitude.com
 api.bazaarvoice.com
-api.cortana.ai
 api.datamuse.com
 api.dixa.io
 api.dmcdn.net
@@ -76,7 +70,6 @@ cdn.routeapp.io
 cdn.sipaof.fr
 cdn.tagcommander.com
 cdn-settings.segment.com
-cf-images.eu-west-1.prod.boltdns.net
 classify-client.services.mozilla.com
 collect.analzye.ly
 combine.asnapieu.com
@@ -115,7 +108,6 @@ eventgw.twilio.com
 events-logs.doctolib.com
 events-tracker.deliveroo.net
 ew1.api.cfpd.bdp.samsung.com
-f025c1ee4ed3c1a39a8a3caa23ad7d40.clo.footprintdns.com
 f2utl8kzz3vbpoothikmbdtbspcwmpjh5dkqmpc378d93a01cfd235ceam1.e.aa.online-metrix.net
 fast.nexx360.io
 feedback.aliexpress.com
@@ -160,7 +152,6 @@ i1.wp.com
 i2.cdscdn.com
 i2.wp.com
 iam.twilio.com
-ionos.fr.ssl.sc.omtrdc.net
 ipv6.unagi-na.amazon.com
 js.intercomcdn.com
 kimono-analytics.bienici.com
@@ -169,15 +160,12 @@ location.services.mozilla.com
 location-inference-westus.cloudapp.net
 lody7k1k-android.mobile-messenger.intercom.com
 log.draw.io
-login.aliexpress.ru
-login.tmall.ru
 loglogin.lastpass.com
 logs-api.xe.com
 logs-qos.tf1.fr
 lpcdn.lpsnmedia.net
 m.stripe.com
 m.stripe.network
-manifest.prod.boltdns.net
 mapi.apptimize.eu
 md-a-c.apptimize.eu
 md-a-s.apptimize.eu
@@ -215,7 +203,6 @@ qualifio.capital.fr
 quantcast.mgr.consensu.org
 r.communication.excusemyweb.com
 r.stripe.com
-raven.adeptmind.ai
 referrals.brave.com
 remote-data.asnapieu.com
 rs.clic2buy.com
@@ -238,12 +225,9 @@ sentry-new.protontech.ch
 server.analytics.leroymerlin.fr
 servicepoints.sendcloud.sc
 session-replay.browser-intake-datadoghq.eu
-sfr.fr.ssl.d2.sc.omtrdc.net
 shopify.route.com
 snap.snapcall.io
 softwareupdatechecker.live-everest-media.net
-solve-widget.forethought.ai
-sp-ao.shortpixel.ai
 speedtest.dailymotion.com
 sspapi-prd.samsungrs.com
 static.ccmbg.com
@@ -273,11 +257,7 @@ tsock.us1.twilio.com
 ubuyanalytics.ubuy.com
 ui.digibot-prod.probayes.net
 ui-api.digibot-prod.probayes.net
-uspolo-search.enterprise.adeptmind.ai
-v-ajs565gb5n.wc.yahoodns.net
 vas.samsungapps.com
-v-b9rustdxfb.wc.yahoodns.net
-v-ctwz00sgcq.wc.yahoodns.net
 web-conforama-trackingapi-live.sparkow.net
 webstore.samqaicongen.com
 webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
@@ -292,8 +272,4 @@ www.flashb.id
 www.googleadservice.com
 wwzfrz0s-android.mobile-messenger.intercom.com
 xmpp.messaging.advgo.net
-yandex.ru
-ybar-ajs565gb5nreport.wc.yahoodns.net
-ybar-b9rustdxfbreport.wc.yahoodns.net
-ybar-ctwz00sgcqreport.wc.yahoodns.net
 yopo.cs.vpgrp.net

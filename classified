@@ -26,6 +26,7 @@ android-context-data.googleapis.com
 androidpay-users-pa.googleapis.com
 androidplatformbackuprestore-pa.googleapis.com
 auditrecording-pa.googleapis.com
+appsitemsuggest-pa.googleapis.com
 businesscalls.googleapis.com
 chromesyncpasswords-pa.googleapis.com
 clientauthconfig.googleapis.com
@@ -74,8 +75,10 @@ readaloud.googleapis.com
 regioninfo-pa.googleapis.com
 safebrowsing.googleapis.com
 save-pa.googleapis.com
+scone-pa.googleapis.com
 securitydomain-pa.googleapis.com
 signaler-pa.googleapis.com
+subscriptionsmanagement-pa.googleapis.com
 storage.googleapis.com
 tasks-pa.googleapis.com
 telephonyspamprotect-pa.googleapis.com

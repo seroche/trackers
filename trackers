@@ -1,21 +1,6 @@
 # New
-s-v6exp1-ds.metric.gstatic.com
-pro.ip-api.com
-www.awin1.com
-nsmedia-advertising.com
-datawrapper.dwcdn.net
-static.dwcdn.net
-cdn.onesignal.com
-apigw.zoorix.com
-lambda.zoorix.com
-public.zoorix.com
-assets.omny.fm
-omny.fm
-traffic.omny.fm
-hm-uk.digital.nuance.com
 
 #
-
 3p.ampproject.net
 4506.fr.mp-track.com
 4648.n.trusteer.com
@@ -53,6 +38,7 @@ api.usercentrics.eu
 api.win4mall.com
 api4.accengage.com
 api-analytics.b.today
+apigw.zoorix.com
 api-iam.intercom.io
 app.newsatme.com
 app.slickstream.com
@@ -60,6 +46,7 @@ app.usercentrics.eu
 arcus-uswest.amazon.com
 armmf.adobe.com
 assets.adobedtm.com
+assets.omny.fm
 assets.qualifio.com
 assets-jpcust.jwpsrv.com
 astatic.ccmbg.com
@@ -72,6 +59,7 @@ c0.wp.com
 cc-analytics.services.atlassian.com
 cdn.cookielaw.org
 cdn.nexx360.io
+cdn.onesignal.com
 cdn.polyfill.io
 cdn.routeapp.io
 cdn.sipaof.fr
@@ -97,6 +85,7 @@ crl.usertrust.com
 cw-logs.takeaway.com
 cws.connectedpdf.com
 data-recommendation-api.scmp.com
+datawrapper.dwcdn.net
 dc.di.atlas.samsung.com
 dcape-na.amazon.com
 device-api.asnapieu.com
@@ -153,6 +142,7 @@ h.online-metrix.net
 heartbeat.iptvsfr.m6web.fr
 hk.pool.ntp.org
 hk-odc.samsungapps.com
+hm-uk.digital.nuance.com
 hub.samsungapps.com
 i0.wp.com
 i1.wp.com
@@ -162,6 +152,7 @@ iam.twilio.com
 ipv6.unagi-na.amazon.com
 js.intercomcdn.com
 kimono-analytics.bienici.com
+lambda.zoorix.com
 lists.ccmbg.com
 location.services.mozilla.com
 location-inference-westus.cloudapp.net
@@ -187,6 +178,8 @@ mupdates.trusteer.com
 mupdates-de.trusteer.com
 nexus.ensighten.com
 nexus-websocket-a.intercom.io
+nsmedia-advertising.com
+omny.fm
 oneclient.sfx.ms
 p13n.adobe.io
 partnertrackshopify.dk
@@ -201,9 +194,11 @@ pixel.wp.com
 player.qualifio.com
 prebid.admaxmedia.io
 presence-api.trust-pro.mpi-internal.com
+pro.ip-api.com
 prod-us-west-2.csp-report.marketing.aws.dev
 profile-api-lbc.trust-pro.mpi-internal.com
 protection-widget.route.com
+public.zoorix.com
 px.ads.linkedin.com
 pxl-mailtracker.com
 qualifio.capital.fr
@@ -238,12 +233,14 @@ softwareupdatechecker.live-everest-media.net
 speedtest.dailymotion.com
 sspapi-prd.samsungrs.com
 static.ccmbg.com
+static.dwcdn.net
 static.ex.co
 statics-marketingsites-wcus-ms-com.akamaized.net
 status.geotrust.com
 story-data.ex.co
 streams.yext.com
 suggestqueries-clients6.youtube.com
+s-v6exp1-ds.metric.gstatic.com
 t.snapcall.io
 tiles.search.brave.com
 time.api.idalgo.info
@@ -258,6 +255,7 @@ tracking.infos.fr
 tracking.lafourchette.com
 tracking.molotov.tv
 tracking-protection.cdn.mozilla.net
+traffic.omny.fm
 trusteerlogs-de.s3.amazonaws.com
 tsock.ie1.twilio.com
 tsock.us1.twilio.com
@@ -274,9 +272,11 @@ wixstats.com
 wl-analytics.tsp.li
 wrapper-api.sp-prod.net
 ws.batch.com
+www.awin1.com
 www.fb-analytics.com
 www.flashb.id
 www.googleadservice.com
 wwzfrz0s-android.mobile-messenger.intercom.com
 xmpp.messaging.advgo.net
+ynuf.aliapp.org
 yopo.cs.vpgrp.net

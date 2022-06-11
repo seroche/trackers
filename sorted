@@ -105,6 +105,7 @@ waconatm.officeapps.live.com
 
 # microsoft
 api.edgeoffer.microsoft.com
+browser.events.data.microsoft.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net

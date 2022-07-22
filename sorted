@@ -4,6 +4,7 @@
 android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
+appsgrowthpromo-pa.clients6.google.com
 appsitemsuggest-pa.clients6.google.com
 apis.google.com
 appswaldo-pa.clients6.google.com
@@ -61,6 +62,7 @@ instantmessaging-pa.googleapis.com
 instantmessaging-pa-eu.googleapis.com
 jnn-pa.googleapis.com
 kidsmanagement-pa.googleapis.com
+lens-pa.googleapis.com
 mdh-pa.googleapis.com
 meetings.googleapis.com
 mlkit.googleapis.com

@@ -46,6 +46,7 @@ digitalassetlinks.googleapis.com
 discover-pa.googleapis.com
 federatedml-pa.googleapis.com
 firebase.googleapis.com
+firebaseml.googleapis.com
 firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
@@ -137,6 +138,7 @@ oneocsp.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 wcpstatic.microsoft.com
 
 # msedge

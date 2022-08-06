@@ -51,7 +51,9 @@ firebaseinstallations.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
 firestore.googleapis.com
+fcmconnection.googleapis.com
 footprints-pa.googleapis.com
+gem-pa.googleapis.com
 geoar.googleapis.com
 gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
@@ -69,6 +71,7 @@ mdh-pa.googleapis.com
 meetings.googleapis.com
 mlkit.googleapis.com
 mobiletextsservice-pa.googleapis.com
+mt.googleapis.com
 myphonenumbers-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
 optimizationguide-pa.googleapis.com
@@ -76,6 +79,7 @@ passwordsleakcheck-pa.googleapis.com
 peoplestack-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
 playatoms-pa.googleapis.com
+podcastsservice-pa.googleapis.com
 readaloud.googleapis.com
 regioninfo-pa.googleapis.com
 safebrowsing.googleapis.com
@@ -145,6 +149,7 @@ wcpstatic.microsoft.com
 a-ring.msedge.net
 a-ring-fallback.msedge.net
 b-ring.msedge.net
+evoke-windowsservices-tas.msedge.net
 c-ring.msedge.net
 fp.msedge.net
 k-ring.msedge.net
@@ -154,8 +159,10 @@ q-ring-fallback.msedge.net
 spov-ring-fallback.msedge.net
 s-ring.msedge.net
 s-ring-fallback.msedge.net
+spo-ring.msedge.net
 teams-ring.msedge.net
 t-ring.msedge.net
+teams-ring.msedge.net
 
 # office365
 ow1.res.office365.com

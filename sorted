@@ -66,6 +66,7 @@ instantmessaging-pa.googleapis.com
 instantmessaging-pa-eu.googleapis.com
 jnn-pa.googleapis.com
 kidsmanagement-pa.googleapis.com
+lamssettings-pa.googleapis.com
 lens-pa.googleapis.com
 mdh-pa.googleapis.com
 meetings.googleapis.com
@@ -122,6 +123,8 @@ cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 edge.microsoft.com
 emdl.ws.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
 fs.microsoft.com
 go.microsoft.com
 graph.microsoft.com
@@ -139,6 +142,7 @@ nav.smartscreen.microsoft.com
 officecdn.microsoft.com
 officeclient.microsoft.com
 oneocsp.microsoft.com
+self.events.data.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com

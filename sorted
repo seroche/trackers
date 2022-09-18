@@ -124,31 +124,23 @@ waconatm.officeapps.live.com
 api.edgeoffer.microsoft.com
 browser.events.data.microsoft.com
 continuum.dds.microsoft.com
-cs.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 edge.microsoft.com
 emdl.ws.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
-fs.microsoft.com
-go.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
-has.spserv.microsoft.com
 licensing.mp.microsoft.com
-manage.devcenter.microsoft.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 msedge.api.cdp.microsoft.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 mucp.api.account.microsoft.com
-nav.smartscreen.microsoft.com
 officecdn.microsoft.com
 officeclient.microsoft.com
-oneocsp.microsoft.com
-paymentinstruments.mp.microsoft.com
 self.events.data.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
@@ -187,9 +179,6 @@ c.s-microsoft.com
 activity.windows.com
 client.wns.windows.com
 edge.activity.windows.com
-gridinbound.blob.core.windows.net
-idkidsmedia.blob.core.windows.net
-pscoretestdata.blob.core.windows.net
 
 ####
 

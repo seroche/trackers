@@ -184,12 +184,6 @@ edge.activity.windows.com
 
 #### Others
 
-# netflix
-ichnaea.netflix.com
-nrdp.nccp.netflix.com
-nrdp.prod.ftl.netflix.com
-probe.prod.ftl.netflix.com
-
 # sfr
 adenabler-sfr.pfd.sfr.net
 dnscheck.stb.sfr.fr

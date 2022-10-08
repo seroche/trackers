@@ -17,7 +17,6 @@ analytics.getwemap.com
 analytics.localstack.cloud
 analytics.production.aws.localstack.cloud
 analytics.proxad.net
-analytics-1424815829.eu-west-3.elb.amazonaws.com
 analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.amplitude.com
@@ -40,7 +39,6 @@ apigw.zoorix.com
 app.newsatme.com
 app.slickstream.com
 app.usercentrics.eu
-arcus-uswest.amazon.com
 armmf.adobe.com
 assets.adobedtm.com
 assets.omny.fm
@@ -79,10 +77,7 @@ cws.connectedpdf.com
 cyvbgroup.slgnt.eu
 data-recommendation-api.scmp.com
 dc.di.atlas.samsung.com
-dcape-na.amazon.com
 device-api.asnapieu.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
 dls.di.atlas.samsung.com
 dmtracking2.alibaba.com
 dns.google
@@ -139,7 +134,6 @@ i0.wp.com
 i1.wp.com
 i2.wp.com
 iam.twilio.com
-ipv6.unagi-na.amazon.com
 kimono-analytics.bienici.com
 lambda.zoorix.com
 lists.ccmbg.com
@@ -158,7 +152,6 @@ mobile-1412.api.privacy-center.org
 mobile-1550.api.privacy-center.org
 mobile-data.onetrust.io
 moduleanalysis.aliexpress.com
-msh.amazon.co.uk
 mupdates.trusteer.com
 mupdates-de.trusteer.com
 nexus.ensighten.com
@@ -237,7 +230,6 @@ tracking.lafourchette.com
 tracking.molotov.tv
 tracking-protection.cdn.mozilla.net
 traffic.omny.fm
-trusteerlogs-de.s3.amazonaws.com
 tsock.ie1.twilio.com
 tsock.us1.twilio.com
 ubuyanalytics.ubuy.com

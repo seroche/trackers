@@ -1,4 +1,3 @@
-#
 3p.ampproject.net
 4506.fr.mp-track.com
 4648.n.trusteer.com
@@ -22,21 +21,15 @@ api.bazaarvoice.com
 api.datamuse.com
 api.dixa.io
 api.geoapify.com
-api.howlapm.com
-api.ipify.org
 api.privacy-center.org
-api.purchasely.io
-api.route.com
 api.samsungosp.com
 api.sprig.com
-api.usercentrics.eu
 api.win4mall.com
 api4.accengage.com
 api-analytics.b.today
 apigw.zoorix.com
 app.newsatme.com
 app.slickstream.com
-app.usercentrics.eu
 armmf.adobe.com
 assets.adobedtm.com
 assets.omny.fm
@@ -46,7 +39,6 @@ astatic.ccmbg.com
 b.stats.paypal.com
 boardlogos.adcourier.com
 brahe.apptimize.eu
-brave-today-cdn.brave.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 c0.wp.com
 cc-analytics.services.atlassian.com
@@ -180,13 +172,11 @@ qualifio.capital.fr
 quantcast.mgr.consensu.org
 r.communication.excusemyweb.com
 r.stripe.com
-referrals.brave.com
 remote-data.asnapieu.com
 rs.clic2buy.com
 rts-static-prod.freshworksapi.com
 s0.wp.com
 s1.wp.com
-safebrowsing.brave.com
 samcm.ksmobile.com
 samcmsec.ksmobile.com
 scripts.opti-digital.com
@@ -227,7 +217,6 @@ tracking.ba-ba-bam.com
 tracking.infos.fr
 tracking.lafourchette.com
 tracking.molotov.tv
-tracking-protection.cdn.mozilla.net
 traffic.omny.fm
 tsock.ie1.twilio.com
 tsock.us1.twilio.com
@@ -237,7 +226,6 @@ ui-api.digibot-prod.probayes.net
 vas.samsungapps.com
 web-conforama-trackingapi-live.sparkow.net
 webstore.samqaicongen.com
-webtrack-brickstreetconnect-ao-prd.hsbc.com.hk
 whitelist.trustedservices.intel.com
 widgets.wp.com
 wixstats.com

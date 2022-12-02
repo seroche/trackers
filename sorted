@@ -52,6 +52,7 @@ clientservices.googleapis.com
 contactsui-pa.googleapis.com
 content.googleapis.com
 content-autofill.googleapis.com
+crashlyticsreports-pa.googleapis.com
 cryptauthdevicesync.googleapis.com
 cryptauthenrollment.googleapis.com
 cryptauthvault.googleapis.com
@@ -71,6 +72,7 @@ firestore.googleapis.com
 footprints-pa.googleapis.com
 gem-pa.googleapis.com
 geoar.googleapis.com
+geomobileservices-pa.googleapis.com
 gmscompliance-pa.googleapis.com
 gnpfesdk-pa.googleapis.com
 googleonebackup-pa.googleapis.com
@@ -164,6 +166,7 @@ settings.data.microsoft.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
+umwatson.events.data.microsoft.com
 wcpstatic.microsoft.com
 
 # msedge

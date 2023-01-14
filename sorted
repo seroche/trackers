@@ -21,9 +21,17 @@ mads.amazon-adsystem.com
 analytics-1424815829.eu-west-3.elb.amazonaws.com
 trusteerlogs-de.s3.amazonaws.com
 
+#### bing
+www.bing.com
+searchhighlights.bing.com
+business.bing.com
+r.bing.com
+th.bing.com
+
 #### google
 
 # google
+adservice.google.com
 android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
@@ -111,6 +119,7 @@ os-ue.storage.googleapis.com
 passwordsleakcheck-pa.googleapis.com
 peoplestack-pa.googleapis.com
 phonedeviceverification-pa.googleapis.com
+photosdata-pa.googleapis.com
 playatoms-pa.googleapis.com
 podcastsservice-pa.googleapis.com
 quake-pa.googleapis.com

@@ -1,14 +1,4 @@
-ads.videoadex.com
-static.adsafeprotected.com
-tracking.aatkit.com
-reporting.aatkit.com
-api.pubnative.net
-hbrc.pubnative.net
-geolocation.onetrust.com
-firebase-settings.crashlytics.com
-logs.sportslocalmedia.com
-
-##
+###
 3p.ampproject.net
 4506.fr.mp-track.com
 4648.n.trusteer.com
@@ -17,6 +7,7 @@ accdn.lpsnmedia.net
 acroipm2.adobe.com
 ads.avads.net
 ads.dugwood.com
+ads.videoadex.com
 advertisement.bienici.com
 aggregator.service.usercentrics.eu
 analytics.autodiff.fr
@@ -33,6 +24,7 @@ api.datamuse.com
 api.dixa.io
 api.geoapify.com
 api.privacy-center.org
+api.pubnative.net
 api.samsungosp.com
 api.sprig.com
 api.win4mall.com
@@ -98,6 +90,7 @@ feedback.aliexpress.com
 femetrics.grammarly.io
 files.qualifio.com
 fins-de.trusteer.com
+firebase-settings.crashlytics.com
 flex-api.twilio.com
 f-log-at.grammarly.io
 f-log-editor.grammarly.com
@@ -118,6 +111,7 @@ geo.avuxiapis.com
 geo.dailymotion.com
 geo.img.pmdstatic.net
 geo2.adobe.com
+geolocation.onetrust.com
 geolocation-recommendations.shopifycloud.com
 geotapi-timersys.netdna-ssl.com
 geotargetingwp.com
@@ -126,6 +120,7 @@ gitcdn.xyz
 go.urtrackinglink.com
 graphql.usercentrics.eu
 gzhls.at
+hbrc.pubnative.net
 heartbeat.iptvsfr.m6web.fr
 hk.pool.ntp.org
 hk-odc.samsungapps.com
@@ -142,6 +137,7 @@ location.services.mozilla.com
 location-inference-westus.cloudapp.net
 log.draw.io
 loglogin.lastpass.com
+logs.sportslocalmedia.com
 logs-api.xe.com
 logs-qos.tf1.fr
 m.stripe.com
@@ -182,6 +178,7 @@ quantcast.mgr.consensu.org
 r.communication.excusemyweb.com
 r.stripe.com
 remote-data.asnapieu.com
+reporting.aatkit.com
 rs.clic2buy.com
 rts-static-prod.freshworksapi.com
 s0.wp.com
@@ -206,6 +203,7 @@ shopify.route.com
 softwareupdatechecker.live-everest-media.net
 songbird.cardinalcommerce.com
 sspapi-prd.samsungrs.com
+static.adsafeprotected.com
 static.ccmbg.com
 static.ex.co
 statics-marketingsites-wcus-ms-com.akamaized.net
@@ -221,6 +219,7 @@ tmgr.ccmbg.com
 tn.flashb.id
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
+tracking.aatkit.com
 tracking.ba-ba-bam.com
 tracking.infos.fr
 tracking.lafourchette.com

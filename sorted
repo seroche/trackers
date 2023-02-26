@@ -77,6 +77,7 @@ deviceintegritytokens-pa.googleapis.com
 dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com
 discover-pa.googleapis.com
+geller-pa.googleapis.com
 fcmconnection.googleapis.com
 federatedml-pa.googleapis.com
 firebase.googleapis.com
@@ -110,6 +111,7 @@ mlkit.googleapis.com
 mobiletextsservice-pa.googleapis.com
 mt.googleapis.com
 myphonenumbers-pa.googleapis.com
+nearbydevices-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
 op-se.storage.googleapis.com
 optimizationguide-pa.googleapis.com

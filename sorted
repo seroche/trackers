@@ -17,11 +17,7 @@ analytics-1424815829.eu-west-3.elb.amazonaws.com
 trusteerlogs-de.s3.amazonaws.com
 
 #### bing
-www.bing.com
-searchhighlights.bing.com
-business.bing.com
-r.bing.com
-th.bing.com
+# Replaced by a regex
 
 #### google
 
@@ -50,7 +46,7 @@ wallet.google.com
 www.google-analytics.com
 
 # googleapis
-# replaced with a more exhaustive whiteliste
+# Replaced by a regex
 
 ####
 
@@ -58,11 +54,6 @@ www.google-analytics.com
 
 # live
 inference.location.live.net
-mrodevicemgr.officeapps.live.com
-nexusrules.officeapps.live.com
-ocws.officeapps.live.com
-odc.officeapps.live.com
-roaming.officeapps.live.com
 waconatm.officeapps.live.com
 
 # microsoft
@@ -93,9 +84,6 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 wcpstatic.microsoft.com
-
-# s-microsoft
-c.s-microsoft.com
 
 # windows
 assets.activity.windows.com

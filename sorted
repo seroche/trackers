@@ -99,30 +99,6 @@ v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 wcpstatic.microsoft.com
 
-# msedge
-a-ring.msedge.net
-a-ring-fallback.msedge.net
-b-ring.msedge.net
-evoke-windowsservices-tas.msedge.net
-c-ring.msedge.net
-fp.msedge.net
-k-ring.msedge.net
-l-ring.msedge.net
-outlookmobile-office365-tas.msedge.net
-q-ring-fallback.msedge.net
-spov-ring-fallback.msedge.net
-s-ring.msedge.net
-s-ring-fallback.msedge.net
-spo-ring.msedge.net
-teams-ring.msedge.net
-t-ring.msedge.net
-teams-ring.msedge.net
-
-# office365
-ow1.res.office365.com
-ow2.res.office365.com
-r4.res.office365.com
-
 # s-microsoft
 c.s-microsoft.com
 

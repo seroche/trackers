@@ -62,8 +62,6 @@ browser.events.data.microsoft.com
 continuum.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
-edge.microsoft.com
-emdl.ws.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 graph.microsoft.com
@@ -71,12 +69,7 @@ inputsuggestions.msdxcdn.microsoft.com
 licensing.mp.microsoft.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-msedge.api.cdp.microsoft.com
-msedge.b.tlu.dl.delivery.mp.microsoft.com
-msedge.f.dl.delivery.mp.microsoft.com
 mucp.api.account.microsoft.com
-officecdn.microsoft.com
-officeclient.microsoft.com
 self.events.data.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com

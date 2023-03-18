@@ -6,15 +6,7 @@ device-metrics-us-2.amazon.com
 msh.amazon.co.uk
 
 # amazon-adsystem
-c.amazon-adsystem.com
-aax-eu.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-fls-na.amazon-adsystem.com
-mads.amazon-adsystem.com
-
-# amazonaws
-analytics-1424815829.eu-west-3.elb.amazonaws.com
-trusteerlogs-de.s3.amazonaws.com
+# Replaced by a regex
 
 #### bing
 # Replaced by a regex

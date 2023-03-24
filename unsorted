@@ -1,24 +1,13 @@
-analytics-1424815829.eu-west-3.elb.amazonaws.com
-trusteerlogs-de.s3.amazonaws.com
-www.googleadservices.com
-0-ws--eu-amazon--adsystem-com-0.cdn.ampproject.org
-0-ir--fr-amazon--adsystem-com-0.cdn.ampproject.org
-client-analytics.braintreegateway.com
-collector.appconsent.io
-ad.doubleclick.net
-adservice.google.fr
-pixel.adsafeprotected.com
-tracker.secure-hotel-booking.com
-tracker.d-edgeconnect.media
-shareasale-analytics.com
-media.batch.com
-
 ###
+0-ir--fr-amazon--adsystem-com-0.cdn.ampproject.org
+0-ws--eu-amazon--adsystem-com-0.cdn.ampproject.org
 4506.fr.mp-track.com
 4648.n.trusteer.com
+ad.doubleclick.net
 ads.avads.net
 ads.dugwood.com
 ads.videoadex.com
+adservice.google.fr
 advertisement.bienici.com
 aggregator.service.usercentrics.eu
 analytics.autodiff.fr
@@ -27,6 +16,7 @@ analytics.getwemap.com
 analytics.localstack.cloud
 analytics.production.aws.localstack.cloud
 analytics.proxad.net
+analytics-1424815829.eu-west-3.elb.amazonaws.com
 analytics-api.tousanticovid.gouv.fr
 analytics-xpress.jabra.com
 api.amplitude.com
@@ -51,7 +41,9 @@ bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 c0.wp.com
 cc-analytics.services.atlassian.com
 classify-client.services.mozilla.com
+client-analytics.braintreegateway.com
 collect.analzye.ly
+collector.appconsent.io
 combine.asnapieu.com
 config.samqaicongen.com
 config-api.internet.apps.samsung.com
@@ -133,6 +125,7 @@ m.stripe.network
 mapi.apptimize.eu
 md-a-c.apptimize.eu
 media.api.idalgo.info
+media.batch.com
 mobile-1412.api.privacy-center.org
 mobile-1550.api.privacy-center.org
 moduleanalysis.aliexpress.com
@@ -145,6 +138,7 @@ path2.xtracloud.net
 path3.xtracloud.net
 pbs.optidigital.com
 pings.analytics-helper.com
+pixel.adsafeprotected.com
 pixel.dugwood.com
 pixel.wp.com
 player.qualifio.com
@@ -179,6 +173,7 @@ sentry.ionos.com
 sentry.trip101.com
 sentry-new.protontech.ch
 server.analytics.leroymerlin.fr
+shareasale-analytics.com
 shopify.route.com
 softwareupdatechecker.live-everest-media.net
 songbird.cardinalcommerce.com
@@ -194,6 +189,8 @@ time.api.idalgo.info
 time.apple.com
 time.xtracloud.net
 tn.flashb.id
+tracker.d-edgeconnect.media
+tracker.secure-hotel-booking.com
 tracker.twenga.fr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracking.aatkit.com
@@ -202,6 +199,7 @@ tracking.ba-ba-bam.com
 tracking.infos.fr
 tracking.lafourchette.com
 tracking.molotov.tv
+trusteerlogs-de.s3.amazonaws.com
 tsock.ie1.twilio.com
 tsock.us1.twilio.com
 ubuyanalytics.ubuy.com
@@ -220,6 +218,7 @@ www.awin1.com
 www.fb-analytics.com
 www.flashb.id
 www.googleadservice.com
+www.googleadservices.com
 xmpp.messaging.advgo.net
 ynuf.aliapp.org
 yopo.cs.vpgrp.net

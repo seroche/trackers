@@ -52,10 +52,14 @@ waconatm.officeapps.live.com
 api.edgeoffer.microsoft.com
 browser.events.data.microsoft.com
 continuum.dds.microsoft.com
+collections.md.mp.microsoft.com
+cs.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+eu-watsonc.events.data.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
 licensing.mp.microsoft.com

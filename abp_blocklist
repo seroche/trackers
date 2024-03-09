@@ -1,21 +1,25 @@
 # Adobe
-||omtrdc.net^
 ||adobedtm.com^
 ||connectedpdf.com^
+||omtrdc.net^
+
 # CCleaner
 ||avast.com^
 ||avcdn.net^
 ||ccleaner.com^
 ||piriform.com^
+
 # Google
+||googleadservice.com^
+||googleadservices.com^
 ||googleapis.com^
+
 # Xiaomi
-||xiaomi.com^
-||miui.com^
 ||io.mi.com^
+||miui.com^
+||xiaomi.com^
+
 # Facebook
-||instagram.com^
-||instagrampartners.com^
 ||cdninstagram.com^
 ||facebook.com^
 ||facebook.fr^
@@ -24,15 +28,32 @@
 ||fb.me^
 ||fb-analytics.com^
 ||fbcdn.net^
-||tfbnw.net^
 ||fbsbx.com^
+||instagram.com^
+||instagrampartners.com^
+||tfbnw.net^
+
 # Trackers
-||minerva.devices.a2z.com^
-||fp.measure.office.net^
+||admaxmedia.io^
+||advgo.net.com^
+||analytics-helper.com^
 ||appsflyersdk.com^
-||kiliba.com^
-||ingest.sentry.io^
-||mp-track.com^
-||trusteer.com^
 ||asnapieu.com^
 ||batch.com^
+||crashlytics.com^
+||flashb.id.com^
+||fp.measure.office.net^
+||google-analytics.com^
+||ingest.sentry.io^
+||kiliba.com^
+||minerva.devices.a2z.com^
+||mp-track.com^
+||nsmedia-advertising.com^
+||optidigital.com^
+||opti-digital.com^
+||partnertrackshopify.dk^
+||pubnative.net^
+||shareasale-analytics.com^
+||trusteer.com^
+||twilio.com^
+||usercentrics.eu^

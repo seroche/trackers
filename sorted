@@ -5,12 +5,6 @@ device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 msh.amazon.co.uk
 
-# amazon-adsystem
-# Replaced by a regex
-
-#### bing
-# Replaced by a regex
-
 #### google
 
 # google
@@ -35,10 +29,6 @@ shoppinglist-pa.clients6.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
 wallet.google.com
-www.google-analytics.com
-
-# googleapis
-# Replaced by a regex
 
 ####
 
@@ -94,5 +84,4 @@ ws-gaia.tv.sfr.net
 ws-heimdall.tv.sfr.net
 ws-heimdall-stb.tv.sfr.net
 ws-sekai.tv.sfr.net
-
 ####

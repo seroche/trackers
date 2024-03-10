@@ -40,25 +40,36 @@
 
 # Trackers
 ||admaxmedia.io^
+||ads.brave.com^
+||adsafeprotected.com^
 ||advgo.net.com^
 ||analytics-helper.com^
 ||appsflyersdk.com^
 ||asnapieu.com^
 ||batch.com^
+||commander1.com^
 ||crashlytics.com^
+||equativ.com^
 ||flashb.id.com^
 ||fp.measure.office.net^
 ||google-analytics.com^
 ||ingest.sentry.io^
 ||kiliba.com^
+||leadsmonitor.com^
 ||minerva.devices.a2z.com^
 ||mp-track.com^
 ||nsmedia-advertising.com^
 ||optidigital.com^
 ||opti-digital.com^
 ||partnertrackshopify.dk^
+||polaranalytics.com^
 ||pubnative.net^
 ||shareasale-analytics.com^
+||smartadserver.com^
+||target2sell.com^
+||telemetry.fbx-mgt.fr^
+||telemetry-ipv4.fbx-mgt.fr^
+||telemetry-ipv6.fbx-mgt.fr^
 ||trusteer.com^
 ||twilio.com^
 ||usercentrics.eu^

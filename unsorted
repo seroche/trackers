@@ -18,12 +18,10 @@ apigw.zoorix.com
 app.newsatme.com
 audiences.free.fr
 b.stats.paypal.com
-brahe.apptimize.eu
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
 classify-client.services.mozilla.com
 client-analytics.braintreegateway.com
-collect.analzye.ly
 collector.appconsent.io
 config.samqaicongen.com
 config-api.internet.apps.samsung.com
@@ -76,16 +74,11 @@ location.services.mozilla.com
 location-inference-westus.cloudapp.net
 m.stripe.com
 m.stripe.network
-mapi.apptimize.eu
-md-a-c.apptimize.eu
 media.api.idalgo.info
 metrics.modilac.com
 mobile-1412.api.privacy-center.org
 mobile-1550.api.privacy-center.org
 moduleanalysis.aliexpress.com
-path1.xtracloud.net
-path2.xtracloud.net
-path3.xtracloud.net
 pc-report.farlightgames.com
 presence-api.trust-pro.mpi-internal.com
 pro.ip-api.com
@@ -116,7 +109,6 @@ streams.yext.com
 suggestqueries-clients6.youtube.com
 time.api.idalgo.info
 time.apple.com
-time.xtracloud.net
 trusteerlogs-de.s3.amazonaws.com
 ubuyanalytics.ubuy.com
 vas.samsungapps.com

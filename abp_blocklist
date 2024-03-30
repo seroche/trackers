@@ -1,21 +1,25 @@
-# Adobe
+# adobe
 ||adobe.io^
 ||adobedtm.com^
 ||connectedpdf.com^
 ||omtrdc.net^
 
-# Amazon
+# amazon
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||msh.amazon.co.uk^
 
-# CCleaner
+# adjust
+||adjust.net.in^
+||adjust.world^
+
+# ccleaner
 ||avast.com^
 ||avcdn.net^
 ||ccleaner.com^
 ||piriform.com^
 
-# Google
+# google
 ||google-analytics.com^
 ||googleadservice.com^
 ||googleadservices.com^
@@ -23,19 +27,19 @@
 ||googletagmanager.com^
 ||metric.gstatic.com^
 
-# Microsoft
+# microsoft
 ||bing.com^
 ||msn.com^
 ||skype.com^
 
-# Xiaomi
+# xiaomi
 ||io.mi.com^
 ||iot.mi.com^
 ||miui.com^
 ||xiaomi.com^
 ||xiaomi.net^
 
-# Facebook
+# facebook
 ||cdninstagram.com^
 ||facebook.com^
 ||facebook.fr^
@@ -50,7 +54,7 @@
 ||instagrampartners.com^
 ||tfbnw.net^
 
-# Trackers
+# trackers
 ||amazon-adsystem.com^
 ||addthis.com^
 ||adjust.com^
@@ -59,6 +63,7 @@
 ||adsafeprotected.com^
 ||advgo.net^
 ||advgo42.com^
+||affilizz.com^
 ||analzye.ly^
 ||analytics-helper.com^
 ||appsflyersdk.com^
@@ -71,6 +76,7 @@
 ||commander1.com^
 ||confection.io^
 ||crashlytics.com^
+||datadome.co^
 ||equativ.com^
 ||flashb.id.com^
 ||fp.measure.office.net^
@@ -78,6 +84,7 @@
 ||kiliba.com^
 ||kueez.com^
 ||leadsmonitor.com^
+||litix.io^
 ||minerva.devices.a2z.com^
 ||mp-track.com^
 ||nsmedia-advertising.com^
@@ -87,6 +94,8 @@
 ||partnertrackshopify.dk^
 ||polaranalytics.com^
 ||pubnative.net^
+||pubxtags.com^
+||qualifio.com^
 ||segment.com^
 ||shareasale-analytics.com^
 ||slickstream.com^
@@ -98,5 +107,7 @@
 ||trusteer.com^
 ||twilio.com^
 ||usercentrics.eu^
+||useinsider.com^
 ||xiti.com^
 ||xtracloud.net^
+||yext.com^

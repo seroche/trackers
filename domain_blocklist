@@ -1,0 +1,72 @@
+# google
+adservice.google.com
+android.apis.google.com
+android.clients.google.com
+android-safebrowsing.google.com
+appsgrowthpromo-pa.clients6.google.com
+appsitemsuggest-pa.clients6.google.com
+apis.google.com
+appswaldo-pa.clients6.google.com
+chat.google.com
+chat-pa.clients6.google.com
+commondatastorage.googleapis.com
+espresso-pa.clients6.google.com
+hangouts.google.com
+pay.google.com
+play.google.com
+rcs-acs-free-france.jibe.google.com
+safebrowsing.google.com
+shoppinglist-pa.clients6.google.com
+suggestqueries.google.com
+tracedepot-pa.clients6.google.com
+wallet.google.com
+
+# live
+inference.location.live.net
+waconatm.officeapps.live.com
+
+# microsoft
+api.edgeoffer.microsoft.com
+browser.events.data.microsoft.com
+continuum.dds.microsoft.com
+collections.md.mp.microsoft.com
+cs.dds.microsoft.com
+cxcs.microsoft.net
+dmd.metaservices.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+eu-v10c.events.data.microsoft.com
+eu-watsonc.events.data.microsoft.com
+graph.microsoft.com
+inputsuggestions.msdxcdn.microsoft.com
+licensing.mp.microsoft.com
+mobile.events.data.microsoft.com
+mobile.pipe.aria.microsoft.com
+mucp.api.account.microsoft.com
+self.events.data.microsoft.com
+settings.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+umwatson.events.data.microsoft.com
+wcpstatic.microsoft.com
+
+# windows
+assets.activity.windows.com
+activity.windows.com
+client.wns.windows.com
+edge.activity.windows.com
+
+# sfr
+adenabler-sfr.pfd.sfr.net
+dnscheck.stb.sfr.fr
+report.tv.sfr.net
+reporting.tv.sfr.net
+setupqos.stb.sfr.fr
+ws-gaia.tv.sfr.net
+ws-heimdall.tv.sfr.net
+ws-heimdall-stb.tv.sfr.net
+ws-sekai.tv.sfr.net
+  
+# others
+

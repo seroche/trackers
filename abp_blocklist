@@ -29,6 +29,7 @@
 
 # microsoft
 ||bing.com^
+||cortana.ai^
 ||msn.com^
 ||skype.com^
 
@@ -77,6 +78,7 @@
 ||confection.io^
 ||crashlytics.com^
 ||datadome.co^
+||edisound.com^
 ||equativ.com^
 ||flashb.id.com^
 ||fp.measure.office.net^
@@ -96,6 +98,7 @@
 ||pubnative.net^
 ||pubxtags.com^
 ||qualifio.com^
+||quickcep.com^
 ||segment.com^
 ||shareasale-analytics.com^
 ||slickstream.com^
@@ -104,6 +107,7 @@
 ||telemetry.fbx-mgt.fr^
 ||telemetry-ipv4.fbx-mgt.fr^
 ||telemetry-ipv6.fbx-mgt.fr^
+||tanker.io^
 ||trusteer.com^
 ||twilio.com^
 ||usercentrics.eu^
@@ -111,3 +115,4 @@
 ||xiti.com^
 ||xtracloud.net^
 ||yext.com^
+||yotpo.com^

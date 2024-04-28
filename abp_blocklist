@@ -3,6 +3,7 @@
 ||adobedtm.com^
 ||connectedpdf.com^
 ||omtrdc.net^
+||adobelogin.com^
 
 # amazon
 ||device-metrics-us.amazon.com^
@@ -70,6 +71,7 @@
 ||appsflyersdk.com^
 ||asnapieu.com^
 ||batch.com^
+||bazaarvoice.com^
 ||branch.io^
 ||clevertap.com^
 ||clevertap-prod.com^
@@ -83,6 +85,7 @@
 ||flashb.id.com^
 ||fp.measure.office.net^
 ||ingest.sentry.io^
+||inmobi.com^
 ||kiliba.com^
 ||kueez.com^
 ||leadsmonitor.com^
@@ -99,8 +102,10 @@
 ||pubxtags.com^
 ||qualifio.com^
 ||quickcep.com^
+||redventures.io^
 ||segment.com^
 ||shareasale-analytics.com^
+||skeepers.io^
 ||slickstream.com^
 ||smartadserver.com^
 ||target2sell.com^
@@ -115,3 +120,25 @@
 ||xtracloud.net^
 ||yext.com^
 ||yotpo.com^
+||mash.com^
+||omappapi.com^
+||klaviyo.com^
+||omnichannelengagementhub.com^
+||bluekai.com^
+||demdex.net^
+||rewardstyle.com^
+||dovetale.com^
+||raptive.com^
+||yandex.net^
+||addtoany.com^
+||googletagservices.com^
+||affilinks.com^
+||taboola.com^
+||smile.io^
+||qualif.io^
+||qualifioapp.com^
+||appboy.eu^
+||automizely.com^
+||tagcommander.com^
+||appcenter.ms^
+

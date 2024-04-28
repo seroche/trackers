@@ -20,6 +20,9 @@ shoppinglist-pa.clients6.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
 wallet.google.com
+googleadapis.l.google.com
+gstaticadssl.l.google.com
+eligibility-panelresearch.googlevideo.com
 
 # live
 inference.location.live.net
@@ -69,6 +72,9 @@ ws-heimdall-stb.tv.sfr.net
 ws-sekai.tv.sfr.net
   
 # others
+adsassets.waze.com
+performance.squarespace.com
+csdkapi-policy.adobe.com
 0-ir--fr-amazon--adsystem-com-0.cdn.ampproject.org
 0-ws--eu-amazon--adsystem-com-0.cdn.ampproject.org
 adservice.google.fr

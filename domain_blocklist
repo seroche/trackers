@@ -3,14 +3,17 @@ adservice.google.com
 android.apis.google.com
 android.clients.google.com
 android-safebrowsing.google.com
+apis.google.com
 appsgrowthpromo-pa.clients6.google.com
 appsitemsuggest-pa.clients6.google.com
-apis.google.com
 appswaldo-pa.clients6.google.com
 chat.google.com
 chat-pa.clients6.google.com
 commondatastorage.googleapis.com
+eligibility-panelresearch.googlevideo.com
 espresso-pa.clients6.google.com
+googleadapis.l.google.com
+gstaticadssl.l.google.com
 hangouts.google.com
 pay.google.com
 play.google.com
@@ -20,9 +23,6 @@ shoppinglist-pa.clients6.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
 wallet.google.com
-googleadapis.l.google.com
-gstaticadssl.l.google.com
-eligibility-panelresearch.googlevideo.com
 
 # live
 inference.location.live.net
@@ -31,14 +31,14 @@ waconatm.officeapps.live.com
 # microsoft
 api.edgeoffer.microsoft.com
 browser.events.data.microsoft.com
-continuum.dds.microsoft.com
 collections.md.mp.microsoft.com
+continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 eu-v10.events.data.microsoft.com
-eu-v20.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
 eu-watsonc.events.data.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
@@ -49,9 +49,9 @@ mucp.api.account.microsoft.com
 self.events.data.microsoft.com
 settings.data.microsoft.com
 settings-win.data.microsoft.com
+umwatson.events.data.microsoft.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
-umwatson.events.data.microsoft.com
 wcpstatic.microsoft.com
 
 # windows
@@ -72,11 +72,9 @@ ws-heimdall-stb.tv.sfr.net
 ws-sekai.tv.sfr.net
   
 # others
-adsassets.waze.com
-performance.squarespace.com
-csdkapi-policy.adobe.com
 0-ir--fr-amazon--adsystem-com-0.cdn.ampproject.org
 0-ws--eu-amazon--adsystem-com-0.cdn.ampproject.org
+adsassets.waze.com
 adservice.google.fr
 advertisement.bienici.com
 aggregator.service.usercentrics.eu
@@ -113,6 +111,7 @@ coreads.pmdstatic.net
 core-api-frontendlogger.front.vpgrp.net
 coupons.6cloud.fr
 crl.usertrust.com
+csdkapi-policy.adobe.com
 cw-logs.takeaway.com
 cyvbgroup.slgnt.eu
 data-recommendation-api.scmp.com
@@ -154,6 +153,7 @@ media.api.idalgo.info
 metrics.modilac.com
 moduleanalysis.aliexpress.com
 pc-report.farlightgames.com
+performance.squarespace.com
 presence-api.trust-pro.mpi-internal.com
 pro.ip-api.com
 prod-us-west-2.csp-report.marketing.aws.dev

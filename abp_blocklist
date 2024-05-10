@@ -1,9 +1,9 @@
 # adobe
 ||adobe.io^
 ||adobedtm.com^
+||adobelogin.com^
 ||connectedpdf.com^
 ||omtrdc.net^
-||adobelogin.com^
 
 # amazon
 ||device-metrics-us.amazon.com^
@@ -141,4 +141,16 @@
 ||automizely.com^
 ||tagcommander.com^
 ||appcenter.ms^
-
+||optimizely.com^
+||ezoic.net^
+||r42tag.com^
+||thank-you.io^
+||doofinder.com^
+||qiota.com^
+||dynamicyield.com^
+||tawk.to^
+||tiqcdn.com^
+||trygr.io^
+||first-id.fr^
+||quantcast.com^
+||trustcommander.net^

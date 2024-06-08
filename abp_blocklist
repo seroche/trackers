@@ -32,6 +32,7 @@
 ||metric.gstatic.com^
 
 # microsoft
+||activity.windows.com^
 ||bing.com^
 ||cortana.ai^
 ||msn.com^
@@ -62,6 +63,18 @@
 ||tfbnw.net^
 
 # trackers
+||scene7.com^
+||socloz.com^
+||atianqi.com^
+||emarsys.net^
+||rokt.com^
+||mparticle.com^
+||hearstapps.com^
+||fwmrm.net^
+||poool.fr^
+||jwpltx.com^
+||quanta.io^
+||rollbar.com^
 ||addthis.com^
 ||addtoany.com^
 ||adjust.com^

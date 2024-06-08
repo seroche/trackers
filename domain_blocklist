@@ -30,35 +30,20 @@ waconatm.officeapps.live.com
 
 # microsoft
 api.edgeoffer.microsoft.com
-browser.events.data.microsoft.com
 collections.md.mp.microsoft.com
 continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
-eu-v10.events.data.microsoft.com
-eu-v10c.events.data.microsoft.com
-eu-v20.events.data.microsoft.com
-eu-watsonc.events.data.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
 licensing.mp.microsoft.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-mucp.api.account.microsoft.com
-self.events.data.microsoft.com
-settings.data.microsoft.com
-settings-win.data.microsoft.com
-umwatson.events.data.microsoft.com
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
 wcpstatic.microsoft.com
 
 # windows
-assets.activity.windows.com
-activity.windows.com
 client.wns.windows.com
-edge.activity.windows.com
 
 # sfr
 adenabler-sfr.pfd.sfr.net
@@ -75,11 +60,8 @@ ws-sekai.tv.sfr.net
 0-ir--fr-amazon--adsystem-com-0.cdn.ampproject.org
 0-ws--eu-amazon--adsystem-com-0.cdn.ampproject.org
 adsassets.waze.com
-adservice.google.fr
 advertisement.bienici.com
-aggregator.service.usercentrics.eu
 api.amplitude.com
-api.bazaarvoice.com
 api.datamuse.com
 api.dixa.io
 api.privacy-center.org
@@ -129,7 +111,6 @@ fmoviescomment.disqus.com
 fota-cloud-dn.ospserver.net
 foxly.jexo.cloud
 freegeoip.live
-ftpstatus.com
 gdpr-mm-geolocation.herokuapp.com
 geo.avuxiapis.com
 geo.dailymotion.com
@@ -179,7 +160,6 @@ static.ex.co
 statics-marketingsites-wcus-ms-com.akamaized.net
 status.geotrust.com
 story-data.ex.co
-streams.yext.com
 suggestqueries-clients6.youtube.com
 time.api.idalgo.info
 time.apple.com

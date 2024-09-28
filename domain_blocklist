@@ -72,6 +72,7 @@ apigw.zoorix.com
 app.newsatme.com
 audiences.free.fr
 b.stats.paypal.com
+b-analytics.b-cdn.net
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
 classify-client.services.mozilla.com
@@ -173,5 +174,6 @@ wl-analytics.tsp.li
 wrapper-api.sp-prod.net
 www.awin1.com
 www.datadoghq-browser-agent.com
+www.stats.bouyguestelecom.fr
 ynuf.aliapp.org
 yopo.cs.vpgrp.net

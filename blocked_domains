@@ -57,6 +57,7 @@ ws-heimdall-stb.tv.sfr.net
 ws-sekai.tv.sfr.net
   
 # others
+adproxy.tf1.fr
 adsassets.waze.com
 advertisement.bienici.com
 api.amplitude.com
@@ -99,6 +100,7 @@ dc.di.atlas.samsung.com
 dls.di.atlas.samsung.com
 dmtracking2.alibaba.com
 edge.disstg.commercecloud.salesforce.com
+error-analytics-sessions-production.shopifysvc.com
 europe-west1-header-bidding-163816.cloudfunctions.net
 events-logs.doctolib.com
 events-tracker.deliveroo.net
@@ -130,6 +132,7 @@ m.stripe.com
 m.stripe.network
 media.api.idalgo.info
 metrics.modilac.com
+metrics-broker.prod.p.tf1.fr
 moduleanalysis.aliexpress.com
 pc-report.farlightgames.com
 performance.squarespace.com
@@ -156,6 +159,7 @@ softwareupdatechecker.live-everest-media.net
 sspapi-prd.samsungrs.com
 static.ex.co
 statics-marketingsites-wcus-ms-com.akamaized.net
+stats.proxad.net
 status.geotrust.com
 story-data.ex.co
 suggestqueries-clients6.youtube.com
@@ -174,10 +178,5 @@ wrapper-api.sp-prod.net
 www.awin1.com
 www.datadoghq-browser-agent.com
 www.stats.bouyguestelecom.fr
-error-analytics-sessions-production.shopifysvc.com
-metrics-broker.prod.p.tf1.fr
-adproxy.tf1.fr
-
 ynuf.aliapp.org
 yopo.cs.vpgrp.net
-stats.proxad.net

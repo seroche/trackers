@@ -6,6 +6,7 @@
 ||omtrdc.net^
 
 # amazon
+||amazon-adsystem.com^
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||msh.amazon.co.uk^
@@ -30,11 +31,15 @@
 ||google-analytics.com^
 ||googleapis.com^
 ||googletagmanager.com^
+||googletagservices.com^
+||gvt2.com^
+||gvt3.com^
 ||metric.gstatic.com^
 
 # microsoft
 ||activity.windows.com^
 ||bing.com^
+||bing.net^
 ||cortana.ai^
 ||data.microsoft.com^
 ||diagnostics.office.com^
@@ -61,6 +66,7 @@
 ||fbcdn.net^
 ||fbpigeon.com^
 ||fbsbx.com^
+||fbx-mgt.fr^
 ||instagram.com^
 ||instagrampartners.com^
 ||tfbnw.net^
@@ -79,9 +85,9 @@
 ||advgo42.com^
 ||affilinks.com^
 ||affilizz.com^
-||amazon-adsystem.com^
 ||analytics-helper.com^
 ||analzye.ly^
+||apitd.net^
 ||appboy.eu^
 ||appcenter.ms^
 ||appsflyersdk.com^
@@ -117,12 +123,12 @@
 ||flashb.id.com^
 ||fp.measure.office.net^
 ||fwmrm.net^
-||fwmrm.net^
 ||getdrip.com^
-||googletagservices.com^
+||goaffpro.com^
 ||greendid.com^
 ||hearstapps.com^
 ||heytap.com^
+||iadvize.com^
 ||ingest.sentry.io^
 ||inmobi.com^
 ||ipify.org^
@@ -140,6 +146,7 @@
 ||minerva.devices.a2z.com^
 ||mparticle.com^
 ||mp-track.com^
+||my-probance.com^
 ||np6.com^
 ||nsmedia-advertising.com^
 ||ogury.io^
@@ -158,6 +165,7 @@
 ||pubxtags.com^
 ||px-cloud.net^
 ||pxf.io^
+||pxlecdn.com^
 ||qiota.com^
 ||qualif.io^
 ||qualifio.com^
@@ -173,6 +181,7 @@
 ||rollbar.com^
 ||sardine.ai^
 ||scene7.com^
+||schemaapp.com^
 ||scorecardresearch.com^
 ||screeb.app^
 ||segment.com^
@@ -183,14 +192,12 @@
 ||smartadserver.com^
 ||smile.io^
 ||socloz.com^
+||spideo.com^
 ||taboola.com^
 ||tagcommander.com^
 ||tapfiliate.com^
 ||target2sell.com^
 ||tawk.to^
-||telemetry.fbx-mgt.fr^
-||telemetry-ipv4.fbx-mgt.fr^
-||telemetry-ipv6.fbx-mgt.fr^
 ||thank-you.io^
 ||tiqcdn.com^
 ||trackcmp.net^
@@ -198,6 +205,7 @@
 ||trustcommander.net^
 ||trusteer.com^
 ||trygr.io^
+||ttwstatic.com^
 ||twilio.com^
 ||useinsider.com^
 ||usercentrics.eu^
@@ -206,9 +214,3 @@
 ||yandex.net^
 ||yext.com^
 ||yotpo.com^
-||pxlecdn.com^
-||spideo.com^
-||goaffpro.com^
-||ttwstatic.com^
-||my-probance.com^
-||gvt2.com^

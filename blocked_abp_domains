@@ -39,6 +39,7 @@
 # microsoft
 ||activity.windows.com^
 ||bing.com^
+||bing.fr^
 ||bing.net^
 ||cortana.ai^
 ||data.microsoft.com^
@@ -59,6 +60,7 @@
 ||cdninstagram.com^
 ||facebook.com^
 ||facebook.fr^
+||facebook.net^
 ||facebookmarketingpartners.com^
 ||fb.com^
 ||fb.me^
@@ -69,6 +71,7 @@
 ||fbx-mgt.fr^
 ||instagram.com^
 ||instagrampartners.com^
+||messenger.com^
 ||tfbnw.net^
 
 # trackers
@@ -107,7 +110,6 @@
 ||condenast.io^
 ||confection.io^
 ||crashlytics.com^
-||datadome.co^
 ||demdex.net^
 ||doofinder.com^
 ||doubleclick.net^
@@ -152,15 +154,12 @@
 ||ogury.io^
 ||omappapi.com^
 ||omnichannelengagementhub.com^
-||online-metrix.net^
 ||optidigital.com^
 ||opti-digital.com^
-||optimizely.com^
 ||partnertrackshopify.dk^
 ||piano.io^
 ||polaranalytics.com^
 ||poool.fr^
-||privacy-center.org^
 ||pubnative.net^
 ||pubxtags.com^
 ||px-cloud.net^
@@ -179,7 +178,6 @@
 ||rewardstyle.com^
 ||rokt.com^
 ||rollbar.com^
-||sardine.ai^
 ||scene7.com^
 ||schemaapp.com^
 ||scorecardresearch.com^

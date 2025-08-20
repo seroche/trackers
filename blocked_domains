@@ -15,13 +15,11 @@ espresso-pa.clients6.google.com
 googleadapis.l.google.com
 gstaticadssl.l.google.com
 hangouts.google.com
-pay.google.com
 play.google.com
 safebrowsing.google.com
 shoppinglist-pa.clients6.google.com
 suggestqueries.google.com
 tracedepot-pa.clients6.google.com
-wallet.google.com
 
 # live
 inference.location.live.net
@@ -36,7 +34,6 @@ cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
-licensing.mp.microsoft.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 wcpstatic.microsoft.com

@@ -87,7 +87,6 @@ content-server.np6.com
 coreads.pmdstatic.net
 core-api-frontendlogger.front.vpgrp.net
 coupons.6cloud.fr
-crl.usertrust.com
 csdkapi-policy.adobe.com
 cw-logs.takeaway.com
 cyvbgroup.slgnt.eu
@@ -156,18 +155,15 @@ sspapi-prd.samsungrs.com
 static.ex.co
 statics-marketingsites-wcus-ms-com.akamaized.net
 stats.proxad.net
-status.geotrust.com
 story-data.ex.co
 suggestqueries-clients6.youtube.com
 time.api.idalgo.info
-time.apple.com
 trck.digiteka.com
 trusteerlogs-de.s3.amazonaws.com
 ubuyanalytics.ubuy.com
 vas.samsungapps.com
 web-perf.booking.com
 webstore.samqaicongen.com
-whitelist.trustedservices.intel.com
 wixstats.com
 wl-analytics.tsp.li
 wrapper-api.sp-prod.net

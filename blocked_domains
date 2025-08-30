@@ -96,7 +96,6 @@ events-tracker.deliveroo.net
 ew1.api.cfpd.bdp.samsung.com
 feedback.aliexpress.com
 fishtownanalytics.sinter-collect.com
-fmoviescomment.disqus.com
 fota-cloud-dn.ospserver.net
 foxly.jexo.cloud
 freegeoip.live
@@ -117,8 +116,6 @@ hub.samsungapps.com
 kimono-analytics.bienici.com
 location.services.mozilla.com
 location-inference-westus.cloudapp.net
-m.stripe.com
-m.stripe.network
 media.api.idalgo.info
 merchantpool1.linkedin.com
 metrics.drawer.fr
@@ -135,7 +132,6 @@ pxl-mailtracker.com
 qualifio.capital.fr
 quantcast.mgr.consensu.org
 r.communication.excusemyweb.com
-r.stripe.com
 reporting.aatkit.com
 rs.clic2buy.com
 rts-static-prod.freshworksapi.com
@@ -163,8 +159,6 @@ webstore.samqaicongen.com
 wixstats.com
 wl-analytics.tsp.li
 wrapper-api.sp-prod.net
-www.awin1.com
-www.datadoghq-browser-agent.com
 www.stats.bouyguestelecom.fr
 ynuf.aliapp.org
 yopo.cs.vpgrp.net

@@ -23,20 +23,14 @@ tracedepot-pa.clients6.google.com
 
 # live
 inference.location.live.net
-waconatm.officeapps.live.com
 
 # microsoft
 api.edgeoffer.microsoft.com
-collections.md.mp.microsoft.com
-continuum.dds.microsoft.com
 cs.dds.microsoft.com
 cxcs.microsoft.net
 dmd.metaservices.microsoft.com
 graph.microsoft.com
 inputsuggestions.msdxcdn.microsoft.com
-mobile.events.data.microsoft.com
-mobile.pipe.aria.microsoft.com
-wcpstatic.microsoft.com
 
 # windows
 client.wns.windows.com
@@ -126,6 +120,8 @@ location-inference-westus.cloudapp.net
 m.stripe.com
 m.stripe.network
 media.api.idalgo.info
+merchantpool1.linkedin.com
+metrics.drawer.fr
 metrics.modilac.com
 metrics-broker.prod.p.tf1.fr
 moduleanalysis.aliexpress.com
@@ -172,4 +168,3 @@ www.datadoghq-browser-agent.com
 www.stats.bouyguestelecom.fr
 ynuf.aliapp.org
 yopo.cs.vpgrp.net
-metrics.drawer.fr

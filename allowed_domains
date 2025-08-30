@@ -1,4 +1,4 @@
-# GoogleApi
+# googleapi
 ajax.googleapis.com
 android.googleapis.com
 androidauto-pa.googleapis.com
@@ -18,3 +18,7 @@ streetviewpixels-pa.googleapis.com
 translate-pa.googleapis.com
 update.googleapis.com
 youtubei.googleapis.com
+
+# others
+l.bfmtv.com
+l.capital.fr

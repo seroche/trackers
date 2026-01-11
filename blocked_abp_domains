@@ -77,8 +77,11 @@
 
 # trackers
 ||2o7.net^
+||8-lives-cat.io^
+||8pus.io^
 ||addthis.com^
 ||addtoany.com^
+||adference.io^
 ||adjust.com^
 ||adjust.io^
 ||admaxmedia.io^
@@ -113,7 +116,10 @@
 ||condenast.io^
 ||confection.io^
 ||confidence.dev^
+||connatix.com^
 ||crashlytics.com^
+||csftr.com^
+||curalate.com^
 ||demdex.net^
 ||doofinder.com^
 ||doubleclick.net^
@@ -128,6 +134,7 @@
 ||ezoic.net^
 ||first-id.fr^
 ||flashb.id.com^
+||flodesk.com^
 ||fp.measure.office.net^
 ||fwmrm.net^
 ||getdrip.com^
@@ -136,18 +143,22 @@
 ||hearstapps.com^
 ||heytap.com^
 ||iadvize.com^
+||iesnare.com^
 ||ingest.sentry.io^
 ||inmobi.com^
 ||ipify.org^
 ||ipinfo.io^
 ||juicer.io^
 ||jwpltx.com^
+||keyade.com^
 ||kiliba.com^
 ||kk-resources.com^
 ||klaviyo.com^
+||klclick.com^
 ||kueez.com^
 ||leadsmonitor.com^
 ||litix.io^
+||loki.delve.office.com^
 ||mash.com^
 ||message-business.com^
 ||minerva.devices.a2z.com^
@@ -165,12 +176,14 @@
 ||piano.io^
 ||polaranalytics.com^
 ||poool.fr^
+||prismamediadigital.com^
 ||pubnative.net^
 ||pubxtags.com^
 ||px-cloud.net^
 ||pxf.io^
 ||pxlecdn.com^
 ||qiota.com^
+||qq.com^
 ||qualif.io^
 ||qualifio.com^
 ||qualifioapp.com^
@@ -184,6 +197,7 @@
 ||rewardstyle.com^
 ||rokt.com^
 ||rollbar.com^
+||rudderstack.com^
 ||scene7.com^
 ||schemaapp.com^
 ||scorecardresearch.com^
@@ -191,13 +205,16 @@
 ||segment.com^
 ||seondnsresolve.com^
 ||shareasale-analytics.com^
+||sharethis.com^
 ||sitestream.co^
 ||skeepers.io^
 ||slickstream.com^
 ||smartadserver.com^
 ||smile.io^
+||social-media-system.com^
 ||socloz.com^
 ||spideo.com^
+||spockee.io^
 ||taboola.com^
 ||tagcommander.com^
 ||tapfiliate.com^
@@ -215,8 +232,10 @@
 ||twilio.com^
 ||useinsider.com^
 ||usercentrics.eu^
+||vitals.app^
 ||xiti.com^
 ||xtracloud.net^
 ||yandex.net^
 ||yext.com^
 ||yotpo.com^
+||zuberance.com^

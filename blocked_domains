@@ -78,6 +78,7 @@ consent.trustarc.com
 consent.truste.com
 consent-pref.trustarc.com
 content-server.np6.com
+continuum.dds.microsoft.com
 coreads.pmdstatic.net
 core-api-frontendlogger.front.vpgrp.net
 coupons.6cloud.fr
@@ -121,7 +122,10 @@ merchantpool1.linkedin.com
 metrics.drawer.fr
 metrics.modilac.com
 metrics-broker.prod.p.tf1.fr
+metrics-ingress.svc.vinted.com
+mi.squidapp.co
 moduleanalysis.aliexpress.com
+news.tracking.laredoute.fr
 pc-report.farlightgames.com
 performance.squarespace.com
 presence-api.trust-pro.mpi-internal.com
@@ -141,6 +145,7 @@ sdk.pushmessage.samsung.com.cn
 sdk.woosmap.com
 secure.analytics.voyages-sncf.com
 secureapi.samqaicongen.com
+sentry.vptech.eu
 server.analytics.leroymerlin.fr
 softwareupdatechecker.live-everest-media.net
 sspapi-prd.samsungrs.com
@@ -149,6 +154,7 @@ statics-marketingsites-wcus-ms-com.akamaized.net
 stats.proxad.net
 story-data.ex.co
 suggestqueries-clients6.youtube.com
+tag.beyable.com
 time.api.idalgo.info
 trck.digiteka.com
 trusteerlogs-de.s3.amazonaws.com

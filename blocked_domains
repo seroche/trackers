@@ -63,6 +63,7 @@ app.newsatme.com
 audiences.free.fr
 b.stats.paypal.com
 b-analytics.b-cdn.net
+bigdata-europe.ecovacs.com
 bubbleadserver-env.eba-ymnviedq.eu-west-3.elasticbeanstalk.com
 cc-analytics.services.atlassian.com
 classify-client.services.mozilla.com
@@ -136,6 +137,7 @@ pxl-mailtracker.com
 qualifio.capital.fr
 quantcast.mgr.consensu.org
 r.communication.excusemyweb.com
+recommender.ecovacs.com
 reporting.aatkit.com
 rs.clic2buy.com
 rts-static-prod.freshworksapi.com
@@ -157,6 +159,7 @@ stats.proxad.net
 story-data.ex.co
 suggestqueries-clients6.youtube.com
 tag.beyable.com
+telemetry.rtk-ai.app
 time.api.idalgo.info
 trck.digiteka.com
 trusteerlogs-de.s3.amazonaws.com

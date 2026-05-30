@@ -20,6 +20,11 @@ translate-pa.googleapis.com
 update.googleapis.com
 youtubei.googleapis.com
 
+# added for Pixel
+playstoregatewayadapter-pa.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+storage.googleapis.com
+
 # others
 l.bfmtv.com
 l.capital.fr

@@ -1,7 +1,5 @@
 # google
 adservice.google.com
-android.apis.google.com
-android.clients.google.com
 android-safebrowsing.google.com
 apis.google.com
 appsgrowthpromo-pa.clients6.google.com
@@ -12,10 +10,7 @@ chat-pa.clients6.google.com
 commondatastorage.googleapis.com
 eligibility-panelresearch.googlevideo.com
 espresso-pa.clients6.google.com
-googleadapis.l.google.com
-gstaticadssl.l.google.com
 hangouts.google.com
-play.google.com
 safebrowsing.google.com
 shoppinglist-pa.clients6.google.com
 suggestqueries.google.com

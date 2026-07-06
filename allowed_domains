@@ -7,10 +7,6 @@ android.googleapis.com
 androidauto-pa.googleapis.com
 # Android Pay / Google Pay user account services (inferred from name)
 androidpay-users-pa.googleapis.com
-# CryptAuth cross-device sync (Smart Lock/device trust)
-cryptauthdevicesync.googleapis.com
-# CryptAuth device enrollment
-cryptauthenrollment.googleapis.com
 # Device integrity/attestation tokens
 deviceintegritytokens-pa.googleapis.com
 # Google Fonts CDN
@@ -27,7 +23,6 @@ mapsmobilesdks-pa.googleapis.com
 mapsresources-pa.googleapis.com
 # Mobile Maps app data
 mobilemaps.googleapis.com
-# Mobile Maps app data (variant)
 mobilemaps-pa-gz.googleapis.com
 # Push notifications backend
 notifications-pa.googleapis.com

@@ -1,59 +1,33 @@
 # googleapi
-# Google Hosted Libraries CDN (jQuery, etc.)
 ajax.googleapis.com
-# Android device checkin/core services
 android.googleapis.com
-# Android Auto app backend (inferred from name)
 androidauto-pa.googleapis.com
-# Android Pay / Google Pay user account services (inferred from name)
 androidpay-users-pa.googleapis.com
-# Device integrity/attestation tokens
 deviceintegritytokens-pa.googleapis.com
-# Google Fonts CDN
 fonts.googleapis.com
-# GMS compliance checks
 gmscompliance-pa.googleapis.com
-# IMA SDK — video ad serving (YouTube and other apps)
 imasdk.googleapis.com
-# Google Maps API / SDK / Resources
 maps.googleapis.com
 mapsmobilesdks-pa.googleapis.com
 mapsresources-pa.googleapis.com
 mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
-# Push notifications backend
 notifications-pa.googleapis.com
-# On-device safety features
 ondevicesafety-pa.googleapis.com
-# Google Payments backend
 payments-pa.googleapis.com
-# Google Pay user data
 pay-users-pa.googleapis.com
-# Google People API (Contacts)
 people-pa.googleapis.com
-# Google Play Store services
 play.googleapis.com
-# Google Play Store frontend
 play-fe.googleapis.com
-# Unclear purpose
 quake-pa.googleapis.com
-# Google Reminders/Tasks
 reminders-pa.googleapis.com
-# Remote key provisioning (Android attestation keys)
 remoteprovisioning.googleapis.com
-# Security domain/device trust management
 securitydomain-pa.googleapis.com
-# Google Discover/News content storage
 social-magazines-prod.storage.googleapis.com
-# Street View image tiles
 streetviewpixels-pa.googleapis.com
-# Google Translate backend
 translate-pa.googleapis.com
-# Android/GMS system updates
 update.googleapis.com
-# Verifiable credentials (digital ID/wallet)
 verifiablecredentials-pa.googleapis.com
-# YouTube internal API (app functionality)
 youtubei.googleapis.com
 
 # others

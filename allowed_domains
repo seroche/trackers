@@ -15,13 +15,10 @@ fonts.googleapis.com
 gmscompliance-pa.googleapis.com
 # IMA SDK — video ad serving (YouTube and other apps)
 imasdk.googleapis.com
-# Google Maps API
+# Google Maps API / SDK / Resources
 maps.googleapis.com
-# Google Maps mobile SDK backend
 mapsmobilesdks-pa.googleapis.com
-# Google Maps resource assets
 mapsresources-pa.googleapis.com
-# Mobile Maps app data
 mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 # Push notifications backend

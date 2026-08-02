@@ -18,45 +18,6 @@ suggestqueries.google.com
 supl.google.com
 tracedepot-pa.clients6.google.com
 
-# googleapis
-android-context-data.googleapis.com
-arcore.googleapis.com
-auditrecording-pa.googleapis.com
-chromesyncentities-pa.googleapis.com
-chromesyncpasswords-pa.googleapis.com
-clientservices.googleapis.com
-content-autofill.googleapis.com
-dialercallinfolookup-pa.googleapis.com
-discover-pa.googleapis.com
-drivefrontend-pa.googleapis.com
-feedback-pa.googleapis.com
-firebasedynamiclinks.googleapis.com
-firebaseinstallations.googleapis.com
-firebaseremoteconfig.googleapis.com
-firebaseremoteconfigrealtime.googleapis.com
-footprints-pa.googleapis.com
-geller-pa.googleapis.com
-geomobileservices-pa.googleapis.com
-imasdk.googleapis.com
-infinitedata-pa.googleapis.com
-locationhistory-pa.googleapis.com
-locationhistoryplacedetails-pa.googleapis.com
-myphonenumbers-pa.googleapis.com
-optimizationguide-pa.googleapis.com
-peoplestack-pa.googleapis.com
-phosphor-pa.googleapis.com
-photosdata-pa.googleapis.com
-proactivebackend-pa.googleapis.com
-safebrowsing.googleapis.com
-scone-pa.googleapis.com
-searchlabspartnerservice-pa.googleapis.com
-searchnotifications-pa.googleapis.com
-speechs3proto2-pa.googleapis.com
-subscriptionsfirstparty-pa.googleapis.com
-userlocation.googleapis.com
-voilatile-pa.googleapis.com
-voledevice-pa.googleapis.com
-
 # live
 inference.location.live.net
 
@@ -164,6 +125,7 @@ mi.squidapp.co
 moduleanalysis.aliexpress.com
 news.tracking.laredoute.fr
 pc-report.farlightgames.com
+perf-ops-cn.dc.cn.ecouser.net
 performance.squarespace.com
 presence-api.trust-pro.mpi-internal.com
 pro.ip-api.com
@@ -210,4 +172,3 @@ wrapper-api.sp-prod.net
 www.stats.bouyguestelecom.fr
 ynuf.aliapp.org
 yopo.cs.vpgrp.net
-perf-ops-cn.dc.cn.ecouser.net

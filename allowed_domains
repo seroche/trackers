@@ -6,7 +6,6 @@ androidpay-users-pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 fonts.googleapis.com
 gmscompliance-pa.googleapis.com
-# Removed to test: imasdk.googleapis.com
 maps.googleapis.com
 mapsmobilesdks-pa.googleapis.com
 mapsresources-pa.googleapis.com
@@ -27,7 +26,7 @@ social-magazines-prod.storage.googleapis.com
 streetviewpixels-pa.googleapis.com
 translate-pa.googleapis.com
 update.googleapis.com
-verifiablecredentials-pa.googleapis.com
+# removed verifiablecredentials-pa.googleapis.com
 youtubei.googleapis.com
 
 ## Added

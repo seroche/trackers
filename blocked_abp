@@ -30,10 +30,12 @@
 ||google-analytics.com^
 ||googletagmanager.com^
 ||googletagservices.com^
+||googlezip.net^
 ||metric.gstatic.com^
 
 # microsoft
 ||activity.windows.com^
+||applicationinsights.azure.com^
 ||bing.com^
 ||bing.fr^
 ||bing.net^
@@ -147,6 +149,7 @@
 ||elfsight.com^
 ||emarsys.net^
 ||equativ.com^
+||error-report.com^
 ||ezoic.net^
 ||first-id.fr^
 ||flashb.id.com^

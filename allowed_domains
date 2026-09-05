@@ -12,13 +12,14 @@ mapsresources-pa.googleapis.com
 mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 notifications-pa.googleapis.com
+notes-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
 payments-pa.googleapis.com
 pay-users-pa.googleapis.com
 people-pa.googleapis.com
+phonedeviceverification-pa.googleapis.com # Test GPay
 play.googleapis.com
 play-fe.googleapis.com
-# removed quake-pa.googleapis.com
 reminders-pa.googleapis.com
 remoteprovisioning.googleapis.com
 securitydomain-pa.googleapis.com
@@ -26,7 +27,6 @@ social-magazines-prod.storage.googleapis.com
 streetviewpixels-pa.googleapis.com
 translate-pa.googleapis.com
 update.googleapis.com
-# removed verifiablecredentials-pa.googleapis.com
 youtubei.googleapis.com
 
 ## Added

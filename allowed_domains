@@ -3,6 +3,7 @@ ajax.googleapis.com
 android.googleapis.com
 androidauto-pa.googleapis.com
 androidpay-users-pa.googleapis.com
+coretimestamping.pa.googleapis.com
 deviceintegritytokens-pa.googleapis.com
 fonts.googleapis.com
 gmscompliance-pa.googleapis.com
@@ -11,6 +12,7 @@ mapsmobilesdks-pa.googleapis.com
 mapsresources-pa.googleapis.com
 mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
+mypixel.pa.googleapis.com
 notifications-pa.googleapis.com
 notes-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
@@ -28,10 +30,6 @@ streetviewpixels-pa.googleapis.com
 translate-pa.googleapis.com
 update.googleapis.com
 youtubei.googleapis.com
-
-## Added
-coretimestamping.pa.googleapis.com
-mypixel.pa.googleapis.com
 
 # others
 l.bfmtv.com

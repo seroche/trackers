@@ -4,9 +4,7 @@ android.googleapis.com
 androidauto-pa.googleapis.com
 androidpay-users-pa.googleapis.com
 coretimestamping.pa.googleapis.com
-# deviceintegritytokens-pa.googleapis.com
 fonts.googleapis.com
-# gmscompliance-pa.googleapis.com
 maps.googleapis.com
 mapsmobilesdks-pa.googleapis.com
 mapsresources-pa.googleapis.com
@@ -14,17 +12,12 @@ mobilemaps.googleapis.com
 mobilemaps-pa-gz.googleapis.com
 mypixel.pa.googleapis.com
 notifications-pa.googleapis.com
-notes-pa.googleapis.com
-# ondevicesafety-pa.googleapis.com
 payments-pa.googleapis.com
 pay-users-pa.googleapis.com
 people-pa.googleapis.com
-# phonedeviceverification-pa.googleapis.com
 play.googleapis.com
 play-fe.googleapis.com
 reminders-pa.googleapis.com
-# remoteprovisioning.googleapis.com
-# securitydomain-pa.googleapis.com
 social-magazines-prod.storage.googleapis.com
 streetviewpixels-pa.googleapis.com
 translate-pa.googleapis.com

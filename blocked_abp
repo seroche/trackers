@@ -10,6 +10,8 @@
 ||device-metrics-us.amazon.com^
 ||device-metrics-us-2.amazon.com^
 ||msh.amazon.co.uk^
+||msh.amazon.com^
+||msh.amazon.fr^
 
 # adjust
 ||adjust.net.in^
@@ -280,3 +282,7 @@
 ||yext.com^
 ||yotpo.com^
 ||zuberance.com^
+||fastly-edge.com^
+||app-analytics-services.com^
+||adeo.cloud^
+||cloudflare-dns.com^
